@@ -16,42 +16,73 @@ def get_json(params):
         API_URL,
         params=params,
         headers=HEADERS,
-        timeout=30
+        timeout=30,
     )
     response.raise_for_status()
     return response.json()
 
 
+def get_caption(date_iso):
+    for language in ("ru", "en"):
+        caption_title = f"Template:Potd/{date_iso} ({language})"
+
+        data = get_json({
+            "action": "parse",
+            "format": "json",
+            "formatversion": "2",
+            "prop": "text",
+            "page": caption_title,
+        })
+
+        parse_result = data.get("parse")
+
+        if not parse_result:
+            continue
+
+        caption_html = parse_result.get("text", "")
+        soup = BeautifulSoup(caption_html, "html.parser")
+        description_tag = soup.find("div", class_="description")
+
+        if description_tag:
+            description = description_tag.get_text(" ", strip=True)
+        else:
+            description = soup.get_text(" ", strip=True)
+
+        if description:
+            return description
+
+    return ""
+
+
+def get_image_title(date_iso):
+    image_title = f"Template:Potd/{date_iso}"
+
+    data = get_json({
+        "action": "query",
+        "format": "json",
+        "formatversion": "2",
+        "prop": "images",
+        "titles": image_title,
+    })
+
+    pages = data.get("query", {}).get("pages", [])
+
+    if not pages:
+        return None
+
+    images = pages[0].get("images", [])
+
+    if not images:
+        return None
+
+    return images[0].get("title")
+
+
 date_iso = date.today().isoformat()
-caption_title = f"Template:Potd/{date_iso} (en)"
-image_title = f"Template:Potd/{date_iso}"
+filename = get_image_title(date_iso)
 
-caption_data = get_json({
-    "action": "parse",
-    "format": "json",
-    "formatversion": "2",
-    "prop": "text",
-    "page": caption_title,
-})
-
-caption_html = caption_data["parse"]["text"]
-soup = BeautifulSoup(caption_html, "html.parser")
-description_tag = soup.find("div", class_="description")
-
-if description_tag:
-    description = description_tag.get_text(" ", strip=True)
-else:
-    description = soup.get_text(" ", strip=True)
-
-image_data = get_json({
-    "action": "query",
-    "format": "json",
-    "formatversion": "2",
-    "prop": "images",
-    "titles": image_title,
-})
-
-filename = image_data["query"]["pages"][0]["images"][0]["title"]
+if not filename:
+    raise SystemExit(f"Картинка дня за {date_iso} не найдена")
 
 image_info = get_json({
     "action": "query",
@@ -62,21 +93,32 @@ image_info = get_json({
     "titles": filename,
 })
 
-info = image_info["query"]["pages"][0]["imageinfo"][0]
+pages = image_info.get("query", {}).get("pages", [])
+imageinfo = pages[0].get("imageinfo", []) if pages else []
+
+if not imageinfo:
+    raise SystemExit("Не удалось получить информацию об изображении")
+
+info = imageinfo[0]
+description = get_caption(date_iso)
 
 if not description:
     description = info.get("extmetadata", {}).get(
         "ImageDescription", {}
     ).get("value", "")
+
     description = BeautifulSoup(
         description,
-        "html.parser"
+        "html.parser",
     ).get_text(" ", strip=True)
+
+if not description:
+    description = "Описание отсутствует"
 
 image_response = requests.get(
     info["url"],
     headers=HEADERS,
-    timeout=60
+    timeout=60,
 )
 image_response.raise_for_status()
 
