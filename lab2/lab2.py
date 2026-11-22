@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 
 import requests
-
+import time
 
 API_URL = "https://ru.wikipedia.org/w/api.php"
 HEADERS = {
@@ -33,47 +33,60 @@ def search_articles(query, limit=35):
 
 def get_articles(search_results):
     titles = [article["title"] for article in search_results]
-
-    params = {
-        "action": "query",
-        "format": "json",
-        "formatversion": "2",
-        "prop": "extracts|links|images|pageimages|pageprops|info",
-        "explaintext": "1",
-        "pllimit": "max",
-        "imlimit": "max",
-        "pithumbsize": "500",
-        "inprop": "url",
-        "titles": "|".join(titles),
-    }
-
-    response = requests.get(
-        API_URL,
-        params=params,
-        headers=HEADERS,
-        timeout=60
-    )
-    response.raise_for_status()
-
     articles = []
 
-    for page in response.json()["query"]["pages"]:
-        article = {
-            "title": page["title"],
-            "url": page.get("fullurl", ""),
-            "text": page.get("extract", ""),
-            "links": [
-                link["title"]
-                for link in page.get("links", [])
-            ],
-            "images": [
-                image["title"]
-                for image in page.get("images", [])
-            ],
-            "thumbnail": page.get("thumbnail", {}).get("source"),
-            "wikidata_id": page.get("pageprops", {}).get("wikibase_item"),
+    for start in range(0, len(titles), 10):
+        batch = titles[start:start + 10]
+
+        params = {
+            "action": "query",
+            "format": "json",
+            "formatversion": "2",
+            "prop": "revisions|links|images|pageimages|pageprops|info",
+            "rvprop": "content",
+            "rvslots": "main",
+            "pllimit": "max",
+            "imlimit": "max",
+            "pithumbsize": "500",
+            "inprop": "url",
+            "redirects": "1",
+            "titles": "|".join(batch),
         }
-        articles.append(article)
+
+        response = requests.get(
+            API_URL,
+            params=params,
+            headers=HEADERS,
+            timeout=60
+        )
+        response.raise_for_status()
+
+        for page in response.json()["query"]["pages"]:
+            text = ""
+            revisions = page.get("revisions", [])
+
+            if revisions:
+                text = revisions[0].get(
+                    "slots", {}
+                ).get("main", {}).get("content", "")
+
+            articles.append({
+                "title": page["title"],
+                "url": page.get("fullurl", ""),
+                "text": text,
+                "links": [
+                    link["title"]
+                    for link in page.get("links", [])
+                ],
+                "images": [
+                    image["title"]
+                    for image in page.get("images", [])
+                ],
+                "thumbnail": page.get("thumbnail", {}).get("source"),
+                "wikidata_id": page.get("pageprops", {}).get("wikibase_item"),
+            })
+
+        time.sleep(1)
 
     return articles
 
