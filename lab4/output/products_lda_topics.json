@@ -1,0 +1,459 @@
+{
+  "dataset": "products",
+  "method": "lda",
+  "topic_count": 10,
+  "coherence": 0.5352401831624887,
+  "coherence_scores": {},
+  "topics": [
+    {
+      "id": 1,
+      "words": [
+        {
+          "word": "galaxy",
+          "weight": 0.03353462368249893
+        },
+        {
+          "word": "quality",
+          "weight": 0.031238993629813194
+        },
+        {
+          "word": "android",
+          "weight": 0.026781193912029266
+        },
+        {
+          "word": "samsung",
+          "weight": 0.02664291299879551
+        },
+        {
+          "word": "excellent",
+          "weight": 0.018866147845983505
+        },
+        {
+          "word": "shipping",
+          "weight": 0.016999853774905205
+        },
+        {
+          "word": "fast",
+          "weight": 0.01688755303621292
+        },
+        {
+          "word": "known",
+          "weight": 0.01673036441206932
+        },
+        {
+          "word": "quad",
+          "weight": 0.015763215720653534
+        },
+        {
+          "word": "fragrance",
+          "weight": 0.01535214576870203
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "words": [
+        {
+          "word": "highly",
+          "weight": 0.04633049666881561
+        },
+        {
+          "word": "recommended",
+          "weight": 0.03328561410307884
+        },
+        {
+          "word": "rolex",
+          "weight": 0.022372769191861153
+        },
+        {
+          "word": "great",
+          "weight": 0.021204637363553047
+        },
+        {
+          "word": "product",
+          "weight": 0.019565002992749214
+        },
+        {
+          "word": "dress",
+          "weight": 0.015451107174158096
+        },
+        {
+          "word": "impressed",
+          "weight": 0.014369327574968338
+        },
+        {
+          "word": "fast",
+          "weight": 0.014107814058661461
+        },
+        {
+          "word": "shipping",
+          "weight": 0.014104647561907768
+        },
+        {
+          "word": "legion",
+          "weight": 0.013746666721999645
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "words": [
+        {
+          "word": "asus",
+          "weight": 0.09405209869146347
+        },
+        {
+          "word": "rog",
+          "weight": 0.03855937719345093
+        },
+        {
+          "word": "strix",
+          "weight": 0.03855937346816063
+        },
+        {
+          "word": "ssd",
+          "weight": 0.03808528557419777
+        },
+        {
+          "word": "vivobook",
+          "weight": 0.036176878958940506
+        },
+        {
+          "word": "windows",
+          "weight": 0.035950224846601486
+        },
+        {
+          "word": "home",
+          "weight": 0.03533089905977249
+        },
+        {
+          "word": "kbd",
+          "weight": 0.03138131648302078
+        },
+        {
+          "word": "core",
+          "weight": 0.030305936932563782
+        },
+        {
+          "word": "blue",
+          "weight": 0.028943412005901337
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "words": [
+        {
+          "word": "aspire",
+          "weight": 0.07124435901641846
+        },
+        {
+          "word": "acer",
+          "weight": 0.0316040962934494
+        },
+        {
+          "word": "black",
+          "weight": 0.03157579153776169
+        },
+        {
+          "word": "money",
+          "weight": 0.026663264259696007
+        },
+        {
+          "word": "great",
+          "weight": 0.02661336399614811
+        },
+        {
+          "word": "fast",
+          "weight": 0.023798126727342606
+        },
+        {
+          "word": "shipping",
+          "weight": 0.022454852238297462
+        },
+        {
+          "word": "value",
+          "weight": 0.0199875645339489
+        },
+        {
+          "word": "highly",
+          "weight": 0.014625226147472858
+        },
+        {
+          "word": "product",
+          "weight": 0.01362301129847765
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "words": [
+        {
+          "word": "core",
+          "weight": 0.09668511897325516
+        },
+        {
+          "word": "ssd",
+          "weight": 0.07920507341623306
+        },
+        {
+          "word": "windows",
+          "weight": 0.07890937477350235
+        },
+        {
+          "word": "fhd",
+          "weight": 0.0643928125500679
+        },
+        {
+          "word": "home",
+          "weight": 0.04945304989814758
+        },
+        {
+          "word": "black",
+          "weight": 0.04573385789990425
+        },
+        {
+          "word": "lenovo",
+          "weight": 0.04541970044374466
+        },
+        {
+          "word": "dell",
+          "weight": 0.04488883540034294
+        },
+        {
+          "word": "acer",
+          "weight": 0.04131152108311653
+        },
+        {
+          "word": "pro",
+          "weight": 0.034777410328388214
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "words": [
+        {
+          "word": "product",
+          "weight": 0.05540834367275238
+        },
+        {
+          "word": "red",
+          "weight": 0.04255485534667969
+        },
+        {
+          "word": "great",
+          "weight": 0.029984042048454285
+        },
+        {
+          "word": "green",
+          "weight": 0.0246161799877882
+        },
+        {
+          "word": "quality",
+          "weight": 0.022481128573417664
+        },
+        {
+          "word": "awesome",
+          "weight": 0.019882842898368835
+        },
+        {
+          "word": "adding",
+          "weight": 0.017015863209962845
+        },
+        {
+          "word": "perfect",
+          "weight": 0.01700795255601406
+        },
+        {
+          "word": "occasions",
+          "weight": 0.016246983781456947
+        },
+        {
+          "word": "white",
+          "weight": 0.015577509067952633
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "words": [
+        {
+          "word": "quality",
+          "weight": 0.038013968616724014
+        },
+        {
+          "word": "money",
+          "weight": 0.03380906954407692
+        },
+        {
+          "word": "black",
+          "weight": 0.028638891875743866
+        },
+        {
+          "word": "design",
+          "weight": 0.02784580923616886
+        },
+        {
+          "word": "great",
+          "weight": 0.026860516518354416
+        },
+        {
+          "word": "value",
+          "weight": 0.024078721180558205
+        },
+        {
+          "word": "excellent",
+          "weight": 0.021089468151330948
+        },
+        {
+          "word": "product",
+          "weight": 0.018865911290049553
+        },
+        {
+          "word": "pleased",
+          "weight": 0.016538653522729874
+        },
+        {
+          "word": "perfect",
+          "weight": 0.016276031732559204
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "words": [
+        {
+          "word": "purchase",
+          "weight": 0.030192198231816292
+        },
+        {
+          "word": "buy",
+          "weight": 0.023670781403779984
+        },
+        {
+          "word": "happy",
+          "weight": 0.022529825568199158
+        },
+        {
+          "word": "satisfied",
+          "weight": 0.02233230695128441
+        },
+        {
+          "word": "various",
+          "weight": 0.02208264172077179
+        },
+        {
+          "word": "highly",
+          "weight": 0.02192331850528717
+        },
+        {
+          "word": "women",
+          "weight": 0.017512530088424683
+        },
+        {
+          "word": "yoga",
+          "weight": 0.017460109665989876
+        },
+        {
+          "word": "stylish",
+          "weight": 0.016648685559630394
+        },
+        {
+          "word": "versatile",
+          "weight": 0.015450874343514442
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "words": [
+        {
+          "word": "ball",
+          "weight": 0.03198595345020294
+        },
+        {
+          "word": "used",
+          "weight": 0.022778160870075226
+        },
+        {
+          "word": "purchase",
+          "weight": 0.021321244537830353
+        },
+        {
+          "word": "buy",
+          "weight": 0.021304026246070862
+        },
+        {
+          "word": "kitchen",
+          "weight": 0.020248647779226303
+        },
+        {
+          "word": "product",
+          "weight": 0.01833290606737137
+        },
+        {
+          "word": "toshiba",
+          "weight": 0.017888715490698814
+        },
+        {
+          "word": "portege",
+          "weight": 0.017888668924570084
+        },
+        {
+          "word": "baseball",
+          "weight": 0.01688581518828869
+        },
+        {
+          "word": "happy",
+          "weight": 0.016570022329688072
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "words": [
+        {
+          "word": "highly",
+          "weight": 0.029051193967461586
+        },
+        {
+          "word": "camera",
+          "weight": 0.027957020327448845
+        },
+        {
+          "word": "features",
+          "weight": 0.02523040398955345
+        },
+        {
+          "word": "smartphone",
+          "weight": 0.023753752931952477
+        },
+        {
+          "word": "impressed",
+          "weight": 0.022879866883158684
+        },
+        {
+          "word": "display",
+          "weight": 0.02269435115158558
+        },
+        {
+          "word": "performance",
+          "weight": 0.022081084549427032
+        },
+        {
+          "word": "iphone",
+          "weight": 0.021555496379733086
+        },
+        {
+          "word": "advanced",
+          "weight": 0.019700633361935616
+        },
+        {
+          "word": "product",
+          "weight": 0.018898237496614456
+        }
+      ]
+    }
+  ]
+}

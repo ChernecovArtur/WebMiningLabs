@@ -1,0 +1,459 @@
+{
+  "dataset": "products",
+  "method": "nmf",
+  "topic_count": 10,
+  "coherence": 0.7014017655854808,
+  "coherence_scores": {},
+  "topics": [
+    {
+      "id": 1,
+      "words": [
+        {
+          "word": "acer",
+          "weight": 1.7222630916134807
+        },
+        {
+          "word": "aspire",
+          "weight": 1.5190739910067097
+        },
+        {
+          "word": "black",
+          "weight": 1.153322773208101
+        },
+        {
+          "word": "home",
+          "weight": 0.42167929204692256
+        },
+        {
+          "word": "windows",
+          "weight": 0.3798757678751442
+        },
+        {
+          "word": "ssd",
+          "weight": 0.3330553636445297
+        },
+        {
+          "word": "core",
+          "weight": 0.3127435504369086
+        },
+        {
+          "word": "linux",
+          "weight": 0.2706768399730001
+        },
+        {
+          "word": "ddr",
+          "weight": 0.174371005710787
+        },
+        {
+          "word": "celeron",
+          "weight": 0.14754843601677747
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "words": [
+        {
+          "word": "dell",
+          "weight": 1.1055113917608876
+        },
+        {
+          "word": "latitude",
+          "weight": 1.0355156716548262
+        },
+        {
+          "word": "fhd",
+          "weight": 0.32098389404784433
+        },
+        {
+          "word": "core",
+          "weight": 0.30264610762171923
+        },
+        {
+          "word": "windows",
+          "weight": 0.26281702125065765
+        },
+        {
+          "word": "linux",
+          "weight": 0.24206030912456158
+        },
+        {
+          "word": "pro",
+          "weight": 0.2288196905410216
+        },
+        {
+          "word": "ssd",
+          "weight": 0.22464286345327203
+        },
+        {
+          "word": "inspiron",
+          "weight": 0.14378852929262567
+        },
+        {
+          "word": "geforce",
+          "weight": 0.10392934820375986
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "words": [
+        {
+          "word": "product",
+          "weight": 0.5001004377531979
+        },
+        {
+          "word": "great",
+          "weight": 0.4525168840374279
+        },
+        {
+          "word": "highly",
+          "weight": 0.4518112027408173
+        },
+        {
+          "word": "quality",
+          "weight": 0.36731957951100125
+        },
+        {
+          "word": "versatile",
+          "weight": 0.33253445643477814
+        },
+        {
+          "word": "money",
+          "weight": 0.33013160344035897
+        },
+        {
+          "word": "design",
+          "weight": 0.3027259800008093
+        },
+        {
+          "word": "various",
+          "weight": 0.3009110923310892
+        },
+        {
+          "word": "recommended",
+          "weight": 0.29487457116840227
+        },
+        {
+          "word": "red",
+          "weight": 0.29343547673554565
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "words": [
+        {
+          "word": "lenovo",
+          "weight": 1.5871282877414845
+        },
+        {
+          "word": "black",
+          "weight": 0.35855289666295587
+        },
+        {
+          "word": "windows",
+          "weight": 0.3477587242975963
+        },
+        {
+          "word": "ssd",
+          "weight": 0.325986012333593
+        },
+        {
+          "word": "legion",
+          "weight": 0.3161312634178416
+        },
+        {
+          "word": "core",
+          "weight": 0.2832273741311651
+        },
+        {
+          "word": "thinkpad",
+          "weight": 0.24556731485280567
+        },
+        {
+          "word": "yoga",
+          "weight": 0.24368355091841234
+        },
+        {
+          "word": "isk",
+          "weight": 0.2310492141528395
+        },
+        {
+          "word": "home",
+          "weight": 0.21231113573398855
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "words": [
+        {
+          "word": "asus",
+          "weight": 1.0188128835240167
+        },
+        {
+          "word": "strix",
+          "weight": 0.6057425983377092
+        },
+        {
+          "word": "rog",
+          "weight": 0.6057425983377092
+        },
+        {
+          "word": "vivobook",
+          "weight": 0.4402132806024796
+        },
+        {
+          "word": "kbd",
+          "weight": 0.38183603167026997
+        },
+        {
+          "word": "eng",
+          "weight": 0.27987847807752797
+        },
+        {
+          "word": "home",
+          "weight": 0.2529662784387056
+        },
+        {
+          "word": "windows",
+          "weight": 0.21460217916308333
+        },
+        {
+          "word": "chocolate",
+          "weight": 0.19595921925190715
+        },
+        {
+          "word": "fhd",
+          "weight": 0.17323171376894242
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "words": [
+        {
+          "word": "android",
+          "weight": 0.887401638000786
+        },
+        {
+          "word": "ghz",
+          "weight": 0.734897351193344
+        },
+        {
+          "word": "quad",
+          "weight": 0.5266273130720158
+        },
+        {
+          "word": "ips",
+          "weight": 0.4775652376519211
+        },
+        {
+          "word": "ideatab",
+          "weight": 0.47560844770280963
+        },
+        {
+          "word": "pad",
+          "weight": 0.370796296946363
+        },
+        {
+          "word": "memo",
+          "weight": 0.370796296946363
+        },
+        {
+          "word": "white",
+          "weight": 0.3115721272507586
+        },
+        {
+          "word": "core",
+          "weight": 0.2948184205499279
+        },
+        {
+          "word": "blue",
+          "weight": 0.24758517962946813
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "words": [
+        {
+          "word": "msi",
+          "weight": 0.9481998971408206
+        },
+        {
+          "word": "gtx",
+          "weight": 0.6072553040362337
+        },
+        {
+          "word": "geforce",
+          "weight": 0.575831881931623
+        },
+        {
+          "word": "fhd",
+          "weight": 0.42891455530011385
+        },
+        {
+          "word": "home",
+          "weight": 0.40769646962278333
+        },
+        {
+          "word": "rdx",
+          "weight": 0.37434010420372027
+        },
+        {
+          "word": "windows",
+          "weight": 0.33833350848292276
+        },
+        {
+          "word": "core",
+          "weight": 0.32513917122488317
+        },
+        {
+          "word": "ssd",
+          "weight": 0.3080856894799907
+        },
+        {
+          "word": "rex",
+          "weight": 0.30426870682099527
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "words": [
+        {
+          "word": "thinkpad",
+          "weight": 1.0177951559433494
+        },
+        {
+          "word": "pro",
+          "weight": 0.6428840210469784
+        },
+        {
+          "word": "bit",
+          "weight": 0.6283011186909521
+        },
+        {
+          "word": "win",
+          "weight": 0.6283011186909521
+        },
+        {
+          "word": "core",
+          "weight": 0.38791434563050775
+        },
+        {
+          "word": "ssd",
+          "weight": 0.3200708132518872
+        },
+        {
+          "word": "ghz",
+          "weight": 0.22463058462265784
+        },
+        {
+          "word": "cache",
+          "weight": 0.1979839427707885
+        },
+        {
+          "word": "yoga",
+          "weight": 0.16930369991427352
+        },
+        {
+          "word": "probook",
+          "weight": 0.15142222728292856
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "words": [
+        {
+          "word": "toshiba",
+          "weight": 0.7937650144106398
+        },
+        {
+          "word": "portege",
+          "weight": 0.7937650144106398
+        },
+        {
+          "word": "grey",
+          "weight": 0.6446760509929979
+        },
+        {
+          "word": "blue",
+          "weight": 0.3218339922406273
+        },
+        {
+          "word": "pro",
+          "weight": 0.3137481533041841
+        },
+        {
+          "word": "fhd",
+          "weight": 0.231682370654877
+        },
+        {
+          "word": "windows",
+          "weight": 0.2066142746912391
+        },
+        {
+          "word": "ssd",
+          "weight": 0.20045816965500532
+        },
+        {
+          "word": "core",
+          "weight": 0.17080294069966553
+        },
+        {
+          "word": "black",
+          "weight": 0.12465098617304907
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "words": [
+        {
+          "word": "iphone",
+          "weight": 0.429592299954612
+        },
+        {
+          "word": "display",
+          "weight": 0.41568523375542765
+        },
+        {
+          "word": "smartphone",
+          "weight": 0.40539916924018915
+        },
+        {
+          "word": "features",
+          "weight": 0.40104051257385237
+        },
+        {
+          "word": "camera",
+          "weight": 0.3917499998816195
+        },
+        {
+          "word": "performance",
+          "weight": 0.38240294073671466
+        },
+        {
+          "word": "samsung",
+          "weight": 0.32655609239705524
+        },
+        {
+          "word": "galaxy",
+          "weight": 0.3075496687564468
+        },
+        {
+          "word": "advanced",
+          "weight": 0.27707770757493994
+        },
+        {
+          "word": "high",
+          "weight": 0.2593846703657472
+        }
+      ]
+    }
+  ]
+}
