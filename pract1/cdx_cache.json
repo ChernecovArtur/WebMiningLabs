@@ -5,5 +5,33 @@
     "filename": "crawl-data/CC-MAIN-2025-30/segments/1751906232374.90/warc/CC-MAIN-20250719041454-20250719071454-00956.warc.gz",
     "offset": "412428705",
     "length": "31191"
+  },
+  {
+    "url": "https://pstu.ru/about/endowment/dokumenty/",
+    "timestamp": "20250717131102",
+    "filename": "crawl-data/CC-MAIN-2025-30/segments/1751905934441.23/warc/CC-MAIN-20250717142534-20250717182534-00778.warc.gz",
+    "offset": "409430802",
+    "length": "26969"
+  },
+  {
+    "url": "https://pstu.ru/about/endowment/smi/",
+    "timestamp": "20250717134002",
+    "filename": "crawl-data/CC-MAIN-2025-30/segments/1751905934441.23/warc/CC-MAIN-20250717142534-20250717182534-00778.warc.gz",
+    "offset": "406131862",
+    "length": "27766"
+  },
+  {
+    "url": "https://pstu.ru/about/niu/pddinmastpro/",
+    "timestamp": "20250719062629",
+    "filename": "crawl-data/CC-MAIN-2025-30/segments/1751906232374.90/warc/CC-MAIN-20250719041454-20250719071454-00091.warc.gz",
+    "offset": "409430802",
+    "length": "19455"
+  },
+  {
+    "url": "https://pstu.ru/about/niu/pddstand/",
+    "timestamp": "20250719055532",
+    "filename": "crawl-data/CC-MAIN-2025-30/segments/1751906232374.90/warc/CC-MAIN-20250719041454-20250719071454-00091.warc.gz",
+    "offset": "427429998",
+    "length": "27388"
   }
 ]

@@ -12,7 +12,7 @@ from urllib.parse import urlsplit
 
 INDEX_URL = "https://index.commoncrawl.org/CC-MAIN-2025-30-index"
 CACHE_FILE = Path(__file__).with_name("cdx_cache.json")
-TEXT_SCAN_LIMIT = 20
+#TEXT_SCAN_LIMIT = 20
 
 
 def search_cdx(keywords, domain, limit):
@@ -44,6 +44,10 @@ def search_cdx(keywords, domain, limit):
 
     except (requests.RequestException, json.JSONDecodeError):
         print("CDX недоступен, использую кэш")
+
+        if not CACHE_FILE.exists():
+            print("Файл кэша не найден")
+            return []
         records = json.loads(CACHE_FILE.read_text(encoding="utf-8"))
 
     words = [word.casefold() for word in keywords]
@@ -153,6 +157,7 @@ def main():
     parser.add_argument("keywords", nargs="+", help="Ключевые слова в URL")
     parser.add_argument("--domain", help="Домен")
     parser.add_argument("--limit", type=int, default=10, help="Число результатов")
+    parser.add_argument("--scan-limit",type=int, default=20, help="Сколько страниц проверять при поиске по тексту")
     parser.add_argument("--show-text", action="store_true", help="Показать текст")
     parser.add_argument("--text", nargs="+", default=[], help="Слова в тексте")
     parser.add_argument("--stats", action="store_true", help="Показать статистику")
@@ -161,7 +166,7 @@ def main():
     show_text = args.show_text or bool(args.text)
 
     if args.text:
-        records = search_cdx(args.keywords, args.domain, TEXT_SCAN_LIMIT)
+        records = search_cdx(args.keywords, args.domain, args.scan_limit)
         results = find_in_text(records, args.text, args.limit)
     else:
         results = search_cdx(args.keywords, args.domain, args.limit)
