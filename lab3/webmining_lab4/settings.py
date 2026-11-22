@@ -87,3 +87,45 @@ DOWNLOAD_DELAY = 1
 DOWNLOADER_MIDDLEWARE_RESPONSE_EXCEPTIONS = True
 FEED_EXPORT_ENCODING = "utf-8"
 FEED_MODE = "create"
+
+ROBOTSTXT_OBEY = False
+
+USER_AGENT = "EducationalLab/1.0 (web mining course)"
+
+# Ограничиваем нагрузку на сайты
+CONCURRENT_REQUESTS = 8
+CONCURRENT_REQUESTS_PER_DOMAIN = 2
+
+DOWNLOAD_DELAY = 2
+RANDOMIZE_DOWNLOAD_DELAY = True
+DOWNLOAD_TIMEOUT = 30
+
+# Повторяем запрос при временных ошибках сервера
+RETRY_ENABLED = True
+RETRY_TIMES = 3
+RETRY_HTTP_CODES = [500, 502, 503, 504, 429]
+
+# Подключаем Playwright
+DOWNLOAD_HANDLERS = {
+    "http": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
+    "https": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
+}
+
+TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
+
+PLAYWRIGHT_BROWSER_TYPE = "chromium"
+PLAYWRIGHT_LAUNCH_OPTIONS = {
+    "headless": True,
+}
+
+#  Порядок: очистка, проверка, удаление дубликатов
+ITEM_PIPELINES = {
+    "webmining_lab4.pipelines.CleaningPipeline": 100,
+    "webmining_lab4.pipelines.ValidationPipeline": 200,
+    "webmining_lab4.pipelines.DuplicationPipeline": 300,
+    "webmining_lab4.pipelines.FuzzyDuplicationPipeline": 400,
+}
+
+# Для русского текта
+FEED_EXPORT_ENCODING = "utf-8"
+LOG_LEVEL = "INFO"  
