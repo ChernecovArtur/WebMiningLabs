@@ -1,5 +1,14 @@
 ﻿id,title,url,error
-R09,Северсталь-окомпании,https://severstal.com/rus/about/,"HTTPSConnectionPool(host='severstal.com', port=443): Read timed out. (read timeout=30)"
-R10,Северсталь-стратегия,https://severstal.com/rus/about/strategy/,"HTTPSConnectionPool(host='severstal.com', port=443): Read timed out. (read timeout=30)"
+R08,Северсталь-главная,https://severstal.com/rus/,500 Server Error: Internal Server Error for url: https://severstal.com/rus/
+R11,Северсталь-структура,https://severstal.com/rus/about/structure/,Мало текста или терминов
 R12,Северсталь-предприятия,https://severstal.com/rus/about/structure/businesses/,Мало текста или терминов
+R14,Мечел-главная,https://mechel.ru/,Мало текста или терминов
+R15,Мечел-окомпании,https://mechel.ru/about/,Мало текста или терминов
+R16,Мечел-структуракомпании,https://mechel.ru/about/structure/,Мало текста или терминов
 R19,Мечел-металлургическаяпродукция,https://mechel.ru/production/metallurgy/,Мало текста или терминов
+R21,РУСАЛ-окомпании,https://rusal.ru/about/,Мало текста или терминов
+R23,УральскаяСталь-опредприятии,https://uralsteel.com/about/,Мало текста или терминов
+R26,KAZMinerals,https://www.kazminerals.com/ru/,Мало текста или терминов
+R28,МеталлBulletin,https://www.metalbulletin.ru/,Мало текста или терминов
+R29,Металлургпром,https://metallurgprom.org/,Мало текста или терминов
+R33,ВСМПО-AVISMA-титан,https://vsmpo.ru/products/titan/,Мало текста или терминов
