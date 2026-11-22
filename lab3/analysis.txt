@@ -1,0 +1,38 @@
+Первичный анализ
+
+Товаров до обработки: 111
+Новостей до обработки: 107
+
+Пропуски в товарах:
+title                       0
+description                 0
+price                       0
+rating                    111
+reviews                     0
+url                         0
+category                    0
+source                      0
+normalized_title            0
+normalized_description      0
+
+Пропуски в новостях:
+title                     0
+published                 0
+url                       0
+summary                   0
+tags                      0
+source                    0
+normalized_title          0
+normalized_description    0
+
+Резальтат обработки
+Медианная цена: 1110.14
+Q1: 476.67
+Q3: 1229.74
+IQR: 753.08
+Нижняя граница: -652.95
+Верхняя граница: 2359.35
+Выбросов по Z-score: 0
+Выбросов по IQR: 0
+Товаров после фильтрации IQR: 111
+Новостей после очистки: 107

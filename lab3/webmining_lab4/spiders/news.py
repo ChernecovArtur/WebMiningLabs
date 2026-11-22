@@ -19,7 +19,7 @@ class NewsSpider(scrapy.Spider):
         ]
         self.max_pages = int(max_pages)
 
-    def start_requests(self):
+    async def start(self):
         for page in range(1, self.max_pages + 1):
             url = f"https://pstu.ru/media/news/?PAGEN_1={page}"
 

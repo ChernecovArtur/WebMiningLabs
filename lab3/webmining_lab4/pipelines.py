@@ -19,7 +19,9 @@ class CleaningPipeline:
         adapter = ItemAdapter(item)
 
         # Очистка текста
-        for field, value in list(adapter.items()):
+        for field in ("title", "summary", "description", "category"):
+            value = adapter.get(field)
+
             if not isinstance(value, str):
                 continue
 
@@ -34,8 +36,16 @@ class CleaningPipeline:
         # Отдельное поле для сравнения
         title = adapter.get("title", "")
         adapter["normalized_title"] = title.lower()
+        description = (
+        adapter.get("description")
+        or adapter.get("summary")
+        or ""
+        )
+        adapter["normalized_description"] = description.lower()
 
         for field in ("price", "rating"):
+            if field not in adapter:
+                continue
             value = adapter.get(field)
 
             if value in (None, ""):
@@ -96,26 +106,41 @@ class DuplicationPipeline:
 
 class FuzzyDuplicationPipeline:
     def __init__(self):
-        self.seen_titles = []
-        self.threshold = 98
+        self.seen_items = []
+        self.title_threshold = 98
+        self.description_threshold = 95
 
     def process_item(self, item, spider):
         adapter = ItemAdapter(item)
         title = adapter["normalized_title"]
+        description = adapter["normalized_description"]
 
         if not title:
             return item
 
-        for seen_title in self.seen_titles:
-            similarity = fuzz.ratio(title, seen_title)
+        for seen_title, seen_description in self.seen_items:
+            title_similarity = fuzz.ratio(title, seen_title)
 
-            if similarity >= self.threshold:
+            if title_similarity < self.title_threshold:
+                continue
+
+            if description and seen_description:
+                description_similarity = fuzz.ratio(
+                    description,
+                    seen_description,
+                )
+            else:
+                description_similarity = title_similarity
+
+            if description_similarity >= self.description_threshold:
                 spider.crawler.stats.inc_value(
                     "duplicates/fuzzy_title"
                 )
                 raise DropItem(
-                    f"Похожий заголовок ({similarity:.0f}%): {title}"
+                    "Повтор товара или новости: "
+                    f"заголовок {title_similarity:.0f}%, "
+                    f"описание {description_similarity:.0f}%"
                 )
 
-        self.seen_titles.append(title)
+        self.seen_items.append((title, description))
         return item
