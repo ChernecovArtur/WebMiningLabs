@@ -1,0 +1,168 @@
+{
+  "clusters": 4,
+  "cities": [
+    {
+      "city": "Пермь",
+      "page_count": 12,
+      "kmeans": 0,
+      "hierarchical": 0,
+      "spectral": 1
+    },
+    {
+      "city": "Кунгур",
+      "page_count": 7,
+      "kmeans": 0,
+      "hierarchical": 0,
+      "spectral": 1
+    },
+    {
+      "city": "Москва",
+      "page_count": 12,
+      "kmeans": 1,
+      "hierarchical": 1,
+      "spectral": 2
+    },
+    {
+      "city": "Санкт-Петербург",
+      "page_count": 12,
+      "kmeans": 1,
+      "hierarchical": 1,
+      "spectral": 2
+    },
+    {
+      "city": "Казань",
+      "page_count": 14,
+      "kmeans": 2,
+      "hierarchical": 2,
+      "spectral": 0
+    },
+    {
+      "city": "Уфа",
+      "page_count": 7,
+      "kmeans": 2,
+      "hierarchical": 2,
+      "spectral": 0
+    },
+    {
+      "city": "Новосибирск",
+      "page_count": 3,
+      "kmeans": 3,
+      "hierarchical": 3,
+      "spectral": 3
+    },
+    {
+      "city": "Хабаровск",
+      "page_count": 3,
+      "kmeans": 1,
+      "hierarchical": 1,
+      "spectral": 2
+    },
+    {
+      "city": "Петрозаводск",
+      "page_count": 7,
+      "kmeans": 0,
+      "hierarchical": 0,
+      "spectral": 3
+    }
+  ],
+  "silhouette": {
+    "kmeans": 0.31881724948337775,
+    "hierarchical": 0.31881724948337775,
+    "spectral": 0.3033813440097439
+  },
+  "adjusted_rand": {
+    "kmeans_hierarchical": 1.0,
+    "kmeans_spectral": 0.71875,
+    "hierarchical_spectral": 0.71875
+  },
+  "expected_pairs": {
+    "Пермь — Кунгур": {
+      "kmeans": true,
+      "hierarchical": true,
+      "spectral": true
+    },
+    "Казань — Уфа": {
+      "kmeans": true,
+      "hierarchical": true,
+      "spectral": true
+    }
+  },
+  "top_dishes": {
+    "0": [
+      {
+        "dish": "пирог",
+        "frequency": 0.4246031746031746
+      },
+      {
+        "dish": "калитки",
+        "frequency": 0.38888888888888884
+      },
+      {
+        "dish": "уха",
+        "frequency": 0.34920634920634924
+      },
+      {
+        "dish": "шаньги",
+        "frequency": 0.30158730158730157
+      },
+      {
+        "dish": "хе",
+        "frequency": 0.2261904761904762
+      }
+    ],
+    "1": [
+      {
+        "dish": "хе",
+        "frequency": 0.6944444444444443
+      },
+      {
+        "dish": "уха",
+        "frequency": 0.6944444444444443
+      },
+      {
+        "dish": "пирог",
+        "frequency": 0.611111111111111
+      },
+      {
+        "dish": "расстегай",
+        "frequency": 0.5
+      },
+      {
+        "dish": "кулебяка",
+        "frequency": 0.38888888888888884
+      }
+    ],
+    "2": [
+      {
+        "dish": "эчпочмак",
+        "frequency": 0.75
+      },
+      {
+        "dish": "чак-чак",
+        "frequency": 0.6785714285714286
+      },
+      {
+        "dish": "пирог",
+        "frequency": 0.5714285714285714
+      },
+      {
+        "dish": "уха",
+        "frequency": 0.5357142857142857
+      },
+      {
+        "dish": "кыстыбый",
+        "frequency": 0.2857142857142857
+      }
+    ],
+    "3": [
+      {
+        "dish": "хе",
+        "frequency": 0.3333333333333333
+      },
+      {
+        "dish": "уха",
+        "frequency": 0.3333333333333333
+      }
+    ]
+  }
+}
