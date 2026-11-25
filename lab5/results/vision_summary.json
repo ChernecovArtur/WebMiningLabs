@@ -1,0 +1,153 @@
+{
+  "videos": [
+    {
+      "id": "-19065351_456239274",
+      "title": "Навесное оборудование: обзор решений для эффективности техники",
+      "detection_count": 519,
+      "class_counts": {
+        "person": 394,
+        "truck": 25,
+        "umbrella": 15,
+        "airplane": 12,
+        "chair": 10,
+        "car": 9,
+        "traffic light": 8,
+        "tie": 6,
+        "handbag": 5,
+        "suitcase": 5,
+        "train": 5,
+        "kite": 5,
+        "motorcycle": 4,
+        "backpack": 3,
+        "bus": 3,
+        "teddy bear": 2,
+        "cell phone": 2,
+        "parking meter": 2,
+        "laptop": 1,
+        "remote": 1,
+        "elephant": 1,
+        "boat": 1
+      }
+    },
+    {
+      "id": "-158504201_456239297",
+      "title": "«АмурСтройТехника»: обзор стенда на выставке «Рудник-2026»",
+      "detection_count": 270,
+      "class_counts": {
+        "person": 161,
+        "clock": 20,
+        "train": 19,
+        "truck": 19,
+        "chair": 14,
+        "teddy bear": 12,
+        "bus": 9,
+        "book": 4,
+        "cell phone": 2,
+        "traffic light": 2,
+        "car": 2,
+        "suitcase": 2,
+        "horse": 1,
+        "cup": 1,
+        "dining table": 1,
+        "stop sign": 1
+      }
+    },
+    {
+      "id": "-133129272_456239621",
+      "title": "Привезли на MITEX технику, на которой держится деревня! Обзор TZR-015 и квадрика TZR 300 FARMER",
+      "detection_count": 793,
+      "class_counts": {
+        "person": 624,
+        "chair": 32,
+        "motorcycle": 32,
+        "truck": 24,
+        "cell phone": 18,
+        "tie": 11,
+        "handbag": 9,
+        "laptop": 6,
+        "car": 6,
+        "train": 6,
+        "tv": 4,
+        "bottle": 3,
+        "surfboard": 3,
+        "cup": 2,
+        "bicycle": 2,
+        "bed": 2,
+        "suitcase": 2,
+        "backpack": 2,
+        "bird": 1,
+        "bus": 1,
+        "boat": 1,
+        "dining table": 1,
+        "clock": 1
+      }
+    },
+    {
+      "id": "-114536691_456239036",
+      "title": "ОБЗОР ЕДЫ: Lays рефленые вкус ЛОСОСЬ.",
+      "detection_count": 266,
+      "class_counts": {
+        "person": 235,
+        "cup": 8,
+        "sports ball": 8,
+        "tie": 5,
+        "stop sign": 3,
+        "hot dog": 2,
+        "umbrella": 1,
+        "dining table": 1,
+        "traffic light": 1,
+        "toothbrush": 1,
+        "snowboard": 1
+      }
+    },
+    {
+      "id": "-114536691_456239044",
+      "title": "ОБЗОР ЕДЫ: Big Bon Max.",
+      "detection_count": 928,
+      "class_counts": {
+        "cup": 316,
+        "person": 239,
+        "bowl": 162,
+        "bottle": 98,
+        "dining table": 78,
+        "bed": 13,
+        "spoon": 8,
+        "knife": 6,
+        "cell phone": 3,
+        "chair": 3,
+        "banana": 1,
+        "cake": 1
+      }
+    },
+    {
+      "id": "-230934160_456239270",
+      "title": "Чижик: Какие продукты покупать? Обзор еды дешевое и дорогое. Ведущий фудблогер. Где купить продукты.",
+      "detection_count": 377,
+      "class_counts": {
+        "person": 189,
+        "bottle": 67,
+        "refrigerator": 29,
+        "orange": 18,
+        "surfboard": 16,
+        "cell phone": 8,
+        "banana": 8,
+        "remote": 7,
+        "donut": 5,
+        "snowboard": 5,
+        "chair": 5,
+        "book": 4,
+        "train": 4,
+        "hot dog": 2,
+        "tv": 2,
+        "parking meter": 2,
+        "sandwich": 1,
+        "cake": 1,
+        "umbrella": 1,
+        "apple": 1,
+        "bus": 1,
+        "handbag": 1
+      }
+    }
+  ],
+  "errors": []
+}

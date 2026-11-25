@@ -1,0 +1,1096 @@
+{
+  "id": "-19065351_456239274",
+  "event_count": 144,
+  "event_counts": {
+    "object": 77,
+    "speech": 51,
+    "volume": 16
+  },
+  "events": [
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 3.0,
+      "end": 8.0,
+      "confidence": 0.5191,
+      "frame_count": 12
+    },
+    {
+      "type": "object",
+      "label": "car",
+      "start": 5.0,
+      "end": 6.0,
+      "confidence": 0.3643,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 8.0,
+      "end": 33.0,
+      "confidence": 0.7635,
+      "frame_count": 111
+    },
+    {
+      "type": "object",
+      "label": "laptop",
+      "start": 8.0,
+      "end": 9.0,
+      "confidence": 0.48,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 8.0,
+      "end": 9.0,
+      "confidence": 0.4522,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "teddy bear",
+      "start": 9.0,
+      "end": 10.0,
+      "confidence": 0.8713,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 10.0,
+      "end": 12.0,
+      "confidence": 0.568,
+      "frame_count": 8
+    },
+    {
+      "type": "object",
+      "label": "tie",
+      "start": 11.0,
+      "end": 12.0,
+      "confidence": 0.414,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 12.3,
+      "end": 18.06,
+      "text": "Эти активности работы спецсетники во многом зависит от правильного подбора на лесного оборудования."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 13.0,
+      "end": 15.0,
+      "max_rms": 0.147853
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 15.0,
+      "end": 16.0,
+      "confidence": 0.4066,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "traffic light",
+      "start": 15.0,
+      "end": 16.0,
+      "confidence": 0.3723,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "handbag",
+      "start": 16.0,
+      "end": 17.0,
+      "confidence": 0.361,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "suitcase",
+      "start": 17.0,
+      "end": 18.0,
+      "confidence": 0.3646,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 17.0,
+      "end": 22.0,
+      "max_rms": 0.18603
+    },
+    {
+      "type": "object",
+      "label": "backpack",
+      "start": 18.0,
+      "end": 19.0,
+      "confidence": 0.3786,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 18.06,
+      "end": 22.58,
+      "text": "На выставке СТТ-X по традиционно этому сегменту уделяется большое внимание."
+    },
+    {
+      "type": "object",
+      "label": "handbag",
+      "start": 20.0,
+      "end": 21.0,
+      "confidence": 0.3625,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 22.58,
+      "end": 26.74,
+      "text": "И сейчас мы приглашаем вас вместе с нами на сцент компании Тикна Парс,"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 23.0,
+      "end": 26.0,
+      "max_rms": 0.157962
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 26.74,
+      "end": 31.58,
+      "text": "где представлен гидромолото новой модели с автоматической смазкой."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 27.0,
+      "end": 30.0,
+      "max_rms": 0.168025
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 31.58,
+      "end": 32.74,
+      "text": "Идем здесь смотреть."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 32.0,
+      "end": 33.0,
+      "max_rms": 0.134991
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 32.74,
+      "end": 37.5,
+      "text": "Хочу обратить ваше внимание на новинку этого года на нашем стенде."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 37.5,
+      "end": 42.46,
+      "text": "гидромолад BL-CROP BL-R-1550 в открытом корпусе."
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 40.0,
+      "end": 41.0,
+      "confidence": 0.5928,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 40.0,
+      "end": 41.0,
+      "confidence": 0.5318,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "bus",
+      "start": 40.0,
+      "end": 43.0,
+      "confidence": 0.4357,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 42.0,
+      "end": 43.0,
+      "confidence": 0.5047,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 42.46,
+      "end": 46.26,
+      "text": "Это мощное решение, созданное специально для спецтехники"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 43.0,
+      "end": 49.0,
+      "confidence": 0.7614,
+      "frame_count": 6
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 43.0,
+      "end": 44.0,
+      "confidence": 0.4916,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 46.26,
+      "end": 49.14,
+      "text": "весом 28 до 35-15 тонн."
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 48.0,
+      "end": 49.0,
+      "confidence": 0.4638,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 49.14,
+      "end": 52.14,
+      "text": "Данный гидромолад оснащен системы автоматической смазки."
+    },
+    {
+      "type": "object",
+      "label": "remote",
+      "start": 50.0,
+      "end": 51.0,
+      "confidence": 0.555,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 52.14,
+      "end": 55.66,
+      "text": "Она продлевает срок службы эксплуатации и облегчает"
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 54.0,
+      "end": 55.0,
+      "confidence": 0.4065,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 55.66,
+      "end": 56.86,
+      "text": "работу оператора."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 56.86,
+      "end": 59.54,
+      "text": "Текомблектующие гидромолота BL-CROP производятся на одном"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 58.0,
+      "end": 66.0,
+      "confidence": 0.8119,
+      "frame_count": 10
+    },
+    {
+      "type": "object",
+      "label": "elephant",
+      "start": 58.0,
+      "end": 59.0,
+      "confidence": 0.4278,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 59.54,
+      "end": 60.54,
+      "text": "заводе."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 60.54,
+      "end": 64.22,
+      "text": "Это гарантирует идеальную подбонку детали и максимальный"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 62.0,
+      "end": 63.0,
+      "max_rms": 0.13514
+    },
+    {
+      "type": "object",
+      "label": "car",
+      "start": 63.0,
+      "end": 64.0,
+      "confidence": 0.4189,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 64.22,
+      "end": 65.62,
+      "text": "ресурс гидромолад."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 65.62,
+      "end": 69.62,
+      "text": "В комплекте идут уже две пики, баллон для зота и набор инструментов."
+    },
+    {
+      "type": "object",
+      "label": "suitcase",
+      "start": 67.0,
+      "end": 70.0,
+      "confidence": 0.5727,
+      "frame_count": 3
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 69.62,
+      "end": 74.62,
+      "text": "И самое главное, для тех, кто ценит время, мы поставляем переходную к лету в разборе."
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 70.0,
+      "end": 74.0,
+      "confidence": 0.925,
+      "frame_count": 4
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 72.0,
+      "end": 73.0,
+      "confidence": 0.3549,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 74.0,
+      "end": 75.0,
+      "confidence": 0.3976,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "backpack",
+      "start": 74.0,
+      "end": 76.0,
+      "confidence": 0.3723,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 74.62,
+      "end": 77.62,
+      "text": "Это помогает сократить срок поставки до клиентов."
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 75.0,
+      "end": 76.0,
+      "confidence": 0.3595,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 76.0,
+      "end": 77.0,
+      "max_rms": 0.125108
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 77.62,
+      "end": 80.62,
+      "text": "Мы соберем к лету максимально кратчайшие сроки."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 80.62,
+      "end": 82.62,
+      "text": "Обращайтесь в группу компании Технапарс."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 82.62,
+      "end": 85.62,
+      "text": "Мы всегда рады вам помочь и проконсульфировать."
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 83.0,
+      "end": 89.0,
+      "confidence": 0.6288,
+      "frame_count": 48
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 83.0,
+      "end": 84.0,
+      "max_rms": 0.131631
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 85.62,
+      "end": 94.58,
+      "text": "Да, сегодня рынок все больше тегатей, к универестальной технике,"
+    },
+    {
+      "type": "object",
+      "label": "teddy bear",
+      "start": 86.0,
+      "end": 87.0,
+      "confidence": 0.667,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 93.0,
+      "end": 109.0,
+      "confidence": 0.699,
+      "frame_count": 79
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 94.58,
+      "end": 99.58,
+      "text": "способны выполнять широкий спектр разодач и навесное оборудование прямой в этом помощник."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 99.58,
+      "end": 104.94,
+      "text": "Поэтому сейчас мы приглашаем вас вместе с нами Тейнтик Стэнд и группы компании Традиции,"
+    },
+    {
+      "type": "object",
+      "label": "tie",
+      "start": 101.0,
+      "end": 102.0,
+      "confidence": 0.4063,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "airplane",
+      "start": 104.0,
+      "end": 108.0,
+      "confidence": 0.4884,
+      "frame_count": 4
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 104.94,
+      "end": 108.54,
+      "text": "что вы познакомиться с новой современной нарезкой."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 108.54,
+      "end": 119.75,
+      "text": "Мы на выставке с ТТ в этом году постарались представить максимально нашу"
+    },
+    {
+      "type": "object",
+      "label": "parking meter",
+      "start": 109.0,
+      "end": 111.0,
+      "confidence": 0.4209,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "airplane",
+      "start": 114.0,
+      "end": 116.0,
+      "confidence": 0.4468,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 116.0,
+      "end": 131.0,
+      "confidence": 0.6403,
+      "frame_count": 48
+    },
+    {
+      "type": "object",
+      "label": "umbrella",
+      "start": 119.0,
+      "end": 120.0,
+      "confidence": 0.3959,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 119.75,
+      "end": 124.71,
+      "text": "сортимент гидромовотов. Вот собственно, на этой елке пристально примерно 1-4 часть всего"
+    },
+    {
+      "type": "object",
+      "label": "umbrella",
+      "start": 122.0,
+      "end": 123.0,
+      "confidence": 0.4535,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "suitcase",
+      "start": 124.0,
+      "end": 125.0,
+      "confidence": 0.4093,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 124.71,
+      "end": 128.27,
+      "text": "асортимента гидромовотов, которые мы представляем. Но, наверное, основную фокусу мы, конечно,"
+    },
+    {
+      "type": "object",
+      "label": "umbrella",
+      "start": 125.0,
+      "end": 131.0,
+      "confidence": 0.4409,
+      "frame_count": 6
+    },
+    {
+      "type": "object",
+      "label": "car",
+      "start": 127.0,
+      "end": 128.0,
+      "confidence": 0.448,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 128.27,
+      "end": 132.79,
+      "text": "делаем на стороне, которая зрителям обращена. Это линейка гидры-риклителей."
+    },
+    {
+      "type": "object",
+      "label": "kite",
+      "start": 132.0,
+      "end": 135.0,
+      "confidence": 0.6578,
+      "frame_count": 3
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 132.79,
+      "end": 138.87,
+      "text": "практически выполняемый каждый год. В этом году здесь добавились модели 300 и 600 гидрохлителей"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 134.0,
+      "end": 135.0,
+      "max_rms": 0.137741
+    },
+    {
+      "type": "object",
+      "label": "kite",
+      "start": 136.0,
+      "end": 137.0,
+      "confidence": 0.6211,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "boat",
+      "start": 136.0,
+      "end": 137.0,
+      "confidence": 0.5823,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 138.0,
+      "end": 139.0,
+      "confidence": 0.5935,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 138.87,
+      "end": 144.33,
+      "text": "для экскаваторов класса от 15 тонн и для более тяжелых машин 35-40 тонн."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 139.0,
+      "end": 140.0,
+      "max_rms": 0.162688
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 144.33,
+      "end": 148.55,
+      "text": "Тобственно говоря, здесь представлены, в том числе, опытные образец тяжелого гидрохлителя,"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 145.0,
+      "end": 146.0,
+      "max_rms": 0.128675
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 146.0,
+      "end": 151.0,
+      "confidence": 0.772,
+      "frame_count": 20
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 148.55,
+      "end": 151.93,
+      "text": "в этом то, что мы называем новое слово гидромолго-строения,"
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 151.93,
+      "end": 155.27,
+      "text": "которое, в принципе, меняет представление о том, как гидромолго-то можно работать, в том числе"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 154.0,
+      "end": 155.0,
+      "confidence": 0.3748,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 155.27,
+      "end": 159.79,
+      "text": "наизлом с более тяжелыми материалами. Вот как раз он вернулся буквально за три дня"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 157.0,
+      "end": 169.0,
+      "confidence": 0.794,
+      "frame_count": 17
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 157.0,
+      "end": 158.0,
+      "confidence": 0.4147,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "car",
+      "start": 158.0,
+      "end": 159.0,
+      "confidence": 0.4608,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "traffic light",
+      "start": 159.0,
+      "end": 160.0,
+      "confidence": 0.4739,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 159.79,
+      "end": 164.33,
+      "text": "удовольствия с поливых испытаний на демонтаже тяжелого"
+    },
+    {
+      "type": "object",
+      "label": "tie",
+      "start": 160.0,
+      "end": 161.0,
+      "confidence": 0.3662,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 160.0,
+      "end": 163.0,
+      "confidence": 0.5188,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "tie",
+      "start": 164.0,
+      "end": 166.0,
+      "confidence": 0.4873,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 164.33,
+      "end": 168.07,
+      "text": "фундамента бункеров, и, собственно говоря, за красооборудование,"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 167.0,
+      "end": 168.0,
+      "max_rms": 0.126962
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 168.07,
+      "end": 170.63,
+      "text": "которое позволило нам показать прирост производительности"
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 170.63,
+      "end": 173.23,
+      "text": "до 3-4 раз сравнений с классическим дебромолком."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 173.23,
+      "end": 176.39,
+      "text": "Вот, собственно, основную линейку мы здесь напомнили то, что"
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 176.39,
+      "end": 178.93,
+      "text": "на сегодняшний день позволяет нашим клиентам более доступно"
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 178.93,
+      "end": 180.43,
+      "text": "повышать их производительность."
+    },
+    {
+      "type": "object",
+      "label": "airplane",
+      "start": 179.0,
+      "end": 180.0,
+      "confidence": 0.6033,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 180.43,
+      "end": 182.63,
+      "text": "Сейчас мы завершаем циколы испытания вместе с нашими"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 181.0,
+      "end": 182.0,
+      "max_rms": 0.132505
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 182.63,
+      "end": 185.99,
+      "text": "клиентами на горный утро, если и в демонтаже, и по плану"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 183.0,
+      "end": 187.0,
+      "confidence": 0.8062,
+      "frame_count": 9
+    },
+    {
+      "type": "object",
+      "label": "handbag",
+      "start": 183.0,
+      "end": 185.0,
+      "confidence": 0.6055,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "umbrella",
+      "start": 183.0,
+      "end": 184.0,
+      "confidence": 0.6893,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 183.0,
+      "end": 184.0,
+      "max_rms": 0.189322
+    },
+    {
+      "type": "object",
+      "label": "traffic light",
+      "start": 184.0,
+      "end": 185.0,
+      "confidence": 0.5954,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 185.0,
+      "end": 186.0,
+      "max_rms": 0.174689
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 185.99,
+      "end": 191.99,
+      "text": "У нас тяжелая модель 600 уже от печени третьего четвертого квартала будет как серийный массовый продукт"
+    },
+    {
+      "type": "object",
+      "label": "airplane",
+      "start": 188.0,
+      "end": 190.0,
+      "confidence": 0.3674,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "car",
+      "start": 190.0,
+      "end": 192.0,
+      "confidence": 0.3977,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 190.0,
+      "end": 198.0,
+      "confidence": 0.7658,
+      "frame_count": 20
+    },
+    {
+      "type": "object",
+      "label": "traffic light",
+      "start": 190.0,
+      "end": 192.0,
+      "confidence": 0.4637,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 190.0,
+      "end": 191.0,
+      "confidence": 0.5724,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "umbrella",
+      "start": 191.0,
+      "end": 195.0,
+      "confidence": 0.5099,
+      "frame_count": 4
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 191.99,
+      "end": 200.49,
+      "text": "Вот выпущенный, а на сегодняшний день, принципе, линейка от самых компактных мини-кс-каваторов до X-каваторов класса 22-24-тона"
+    },
+    {
+      "type": "object",
+      "label": "traffic light",
+      "start": 193.0,
+      "end": 194.0,
+      "confidence": 0.4018,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "traffic light",
+      "start": 195.0,
+      "end": 196.0,
+      "confidence": 0.4017,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 195.0,
+      "end": 197.0,
+      "max_rms": 0.142636
+    },
+    {
+      "type": "object",
+      "label": "umbrella",
+      "start": 196.0,
+      "end": 198.0,
+      "confidence": 0.4496,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 200.49,
+      "end": 202.49,
+      "text": "Мы уже с помощью дедрукателей закрывая"
+    },
+    {
+      "type": "object",
+      "label": "airplane",
+      "start": 202.0,
+      "end": 205.0,
+      "confidence": 0.5646,
+      "frame_count": 3
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 202.49,
+      "end": 205.99,
+      "text": "И, собственно, в течение третьего четвертого квартала пополним более тяжелый модель"
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 205.99,
+      "end": 210.99,
+      "text": "А мы продолжаем делать обзоры самые различные техники оборудования с выставочной экстрендом"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 206.0,
+      "end": 213.0,
+      "confidence": 0.7703,
+      "frame_count": 20
+    },
+    {
+      "type": "object",
+      "label": "tie",
+      "start": 206.0,
+      "end": 207.0,
+      "confidence": 0.376,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 210.99,
+      "end": 212.99,
+      "text": "Следите за нашими новостями"
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 217.0,
+      "end": 221.0,
+      "confidence": 0.4585,
+      "frame_count": 10
+    },
+    {
+      "type": "object",
+      "label": "car",
+      "start": 217.0,
+      "end": 219.0,
+      "confidence": 0.3981,
+      "frame_count": 3
+    }
+  ]
+}

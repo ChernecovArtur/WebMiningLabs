@@ -1,0 +1,1018 @@
+{
+  "id": "-230934160_456239270",
+  "event_count": 133,
+  "event_counts": {
+    "object": 76,
+    "speech": 41,
+    "volume": 16
+  },
+  "events": [
+    {
+      "type": "object",
+      "label": "person",
+      "start": 0.0,
+      "end": 18.0,
+      "confidence": 0.9393,
+      "frame_count": 18
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 0.08,
+      "end": 2.08,
+      "text": "Всем привет! Вы на канале Миши Ивалиях."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 2.08,
+      "end": 6.58,
+      "text": "В общем, мы пошли за хлебушку, мы решили закрепиться на неделю холостическая схема как у всех."
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 3.0,
+      "end": 6.0,
+      "confidence": 0.8185,
+      "frame_count": 3
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 3.0,
+      "end": 5.0,
+      "max_rms": 0.128562
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 6.58,
+      "end": 15.08,
+      "text": "Небольшую список у нас получился 30 позиции всего. Мы приехали в Лихчишек, сейчас пойдем искать качественные товары и посмотрим, сколько это стоит и покажем вам."
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 7.0,
+      "end": 10.0,
+      "confidence": 0.8291,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 13.0,
+      "end": 14.0,
+      "confidence": 0.5809,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 15.0,
+      "end": 16.0,
+      "confidence": 0.4209,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 15.08,
+      "end": 24.91,
+      "text": "Пойдемте."
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 19.0,
+      "end": 31.0,
+      "confidence": 0.7955,
+      "frame_count": 13
+    },
+    {
+      "type": "object",
+      "label": "refrigerator",
+      "start": 22.0,
+      "end": 23.0,
+      "confidence": 0.7527,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "refrigerator",
+      "start": 24.0,
+      "end": 27.0,
+      "confidence": 0.5026,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "hot dog",
+      "start": 24.0,
+      "end": 25.0,
+      "confidence": 0.7349,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 24.91,
+      "end": 31.91,
+      "text": "Если честно, первый раз зашли в Лихчишек, смотрим на сортимент, первая у нас позиция хлеб, очень маленький выбор для нас."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 25.0,
+      "end": 26.0,
+      "max_rms": 0.110274
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 29.0,
+      "end": 30.0,
+      "max_rms": 0.093237
+    },
+    {
+      "type": "object",
+      "label": "sandwich",
+      "start": 31.0,
+      "end": 32.0,
+      "confidence": 0.364,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 31.91,
+      "end": 36.91,
+      "text": "Нет у того хлеба, который мы обычно берем. Сейчас будем выбирать из того, что есть."
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 33.0,
+      "end": 46.0,
+      "confidence": 0.8456,
+      "frame_count": 13
+    },
+    {
+      "type": "object",
+      "label": "banana",
+      "start": 33.0,
+      "end": 34.0,
+      "confidence": 0.6957,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 33.0,
+      "end": 34.0,
+      "max_rms": 0.08432
+    },
+    {
+      "type": "object",
+      "label": "refrigerator",
+      "start": 34.0,
+      "end": 35.0,
+      "confidence": 0.4184,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 35.0,
+      "end": 36.0,
+      "max_rms": 0.087402
+    },
+    {
+      "type": "object",
+      "label": "refrigerator",
+      "start": 36.0,
+      "end": 37.0,
+      "confidence": 0.6944,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 36.91,
+      "end": 43.71,
+      "text": "Берем батон, 44 рубля цинь и 44 рубля цинь."
+    },
+    {
+      "type": "object",
+      "label": "bottle",
+      "start": 38.0,
+      "end": 41.0,
+      "confidence": 0.5262,
+      "frame_count": 4
+    },
+    {
+      "type": "object",
+      "label": "refrigerator",
+      "start": 41.0,
+      "end": 44.0,
+      "confidence": 0.5695,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "remote",
+      "start": 43.0,
+      "end": 44.0,
+      "confidence": 0.5062,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 43.0,
+      "end": 47.0,
+      "max_rms": 0.134719
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 43.71,
+      "end": 49.11,
+      "text": "Чилек Урина, 329 рублей цинь."
+    },
+    {
+      "type": "object",
+      "label": "cake",
+      "start": 48.0,
+      "end": 49.0,
+      "confidence": 0.5902,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 48.0,
+      "end": 49.0,
+      "max_rms": 0.117232
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 49.0,
+      "end": 50.0,
+      "confidence": 0.897,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 49.11,
+      "end": 52.27,
+      "text": "В общем, мы такого конец знаем, но решили взять вот"
+    },
+    {
+      "type": "object",
+      "label": "bottle",
+      "start": 50.0,
+      "end": 58.0,
+      "confidence": 0.5057,
+      "frame_count": 62
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 50.0,
+      "end": 51.0,
+      "max_rms": 0.096238
+    },
+    {
+      "type": "object",
+      "label": "refrigerator",
+      "start": 51.0,
+      "end": 52.0,
+      "confidence": 0.3964,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 52.27,
+      "end": 58.17,
+      "text": "такого святая, 80-90 рублей цинь."
+    },
+    {
+      "type": "object",
+      "label": "refrigerator",
+      "start": 53.0,
+      "end": 55.0,
+      "confidence": 0.3821,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 55.0,
+      "end": 65.0,
+      "confidence": 0.8245,
+      "frame_count": 11
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 55.0,
+      "end": 56.0,
+      "max_rms": 0.084052
+    },
+    {
+      "type": "object",
+      "label": "refrigerator",
+      "start": 56.0,
+      "end": 58.0,
+      "confidence": 0.606,
+      "frame_count": 2
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 57.0,
+      "end": 58.0,
+      "max_rms": 0.109179
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 58.17,
+      "end": 61.37,
+      "text": "Смитана, 89 рублей цинь."
+    },
+    {
+      "type": "object",
+      "label": "refrigerator",
+      "start": 59.0,
+      "end": 60.0,
+      "confidence": 0.4238,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "refrigerator",
+      "start": 61.0,
+      "end": 62.0,
+      "confidence": 0.6531,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 61.37,
+      "end": 65.21,
+      "text": "Маслости вочная, 189 рублей цинь."
+    },
+    {
+      "type": "object",
+      "label": "refrigerator",
+      "start": 64.0,
+      "end": 67.0,
+      "confidence": 0.6152,
+      "frame_count": 3
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 65.21,
+      "end": 67.77,
+      "text": "Самое дорогое, что нашли в магазине."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 66.0,
+      "end": 67.0,
+      "max_rms": 0.136541
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 67.77,
+      "end": 80.77,
+      "text": "Свереросиски 237 рублей за 300 грамм, карбанад 119 рублей дзень, колбасам 189 рублей дзень, кубик куриный 29 рублей дзень,"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 68.0,
+      "end": 79.0,
+      "confidence": 0.7647,
+      "frame_count": 16
+    },
+    {
+      "type": "object",
+      "label": "donut",
+      "start": 70.0,
+      "end": 71.0,
+      "confidence": 0.4149,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "refrigerator",
+      "start": 71.0,
+      "end": 78.0,
+      "confidence": 0.4983,
+      "frame_count": 8
+    },
+    {
+      "type": "object",
+      "label": "hot dog",
+      "start": 72.0,
+      "end": 73.0,
+      "confidence": 0.4136,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 78.0,
+      "end": 80.0,
+      "max_rms": 0.112353
+    },
+    {
+      "type": "object",
+      "label": "book",
+      "start": 80.0,
+      "end": 81.0,
+      "confidence": 0.3901,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 80.77,
+      "end": 85.77,
+      "text": "Важный салфеткой 99 рублей за штуку длину."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 81.0,
+      "end": 83.0,
+      "max_rms": 0.134655
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 82.0,
+      "end": 88.0,
+      "confidence": 0.7935,
+      "frame_count": 6
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 85.77,
+      "end": 89.77,
+      "text": "Зубная паста, 159 рублей дзень."
+    },
+    {
+      "type": "object",
+      "label": "book",
+      "start": 89.0,
+      "end": 90.0,
+      "confidence": 0.475,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 89.77,
+      "end": 93.77,
+      "text": "Бананы 129 рублей за килограмм дзень."
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 90.0,
+      "end": 105.0,
+      "confidence": 0.8389,
+      "frame_count": 16
+    },
+    {
+      "type": "object",
+      "label": "banana",
+      "start": 90.0,
+      "end": 93.0,
+      "confidence": 0.7747,
+      "frame_count": 6
+    },
+    {
+      "type": "object",
+      "label": "orange",
+      "start": 90.0,
+      "end": 98.0,
+      "confidence": 0.4488,
+      "frame_count": 15
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 93.77,
+      "end": 96.77,
+      "text": "Лук 29 рублей за килограмм дзень."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 96.77,
+      "end": 100.77,
+      "text": "Там АТ199 рублей за килограмм дзень."
+    },
+    {
+      "type": "object",
+      "label": "umbrella",
+      "start": 99.0,
+      "end": 100.0,
+      "confidence": 0.4696,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 100.77,
+      "end": 104.77,
+      "text": "А горцы 129 рублей за килограмм дзень."
+    },
+    {
+      "type": "object",
+      "label": "banana",
+      "start": 101.0,
+      "end": 102.0,
+      "confidence": 0.4129,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 104.77,
+      "end": 111.77,
+      "text": "Марколь 22 рубля за килограмм зень, картошль 29 рубле за килограмм."
+    },
+    {
+      "type": "object",
+      "label": "donut",
+      "start": 105.0,
+      "end": 106.0,
+      "confidence": 0.4976,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 107.0,
+      "end": 108.0,
+      "confidence": 0.8449,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "apple",
+      "start": 107.0,
+      "end": 108.0,
+      "confidence": 0.7032,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "refrigerator",
+      "start": 108.0,
+      "end": 109.0,
+      "confidence": 0.4182,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 111.77,
+      "end": 113.77,
+      "text": "Дзень."
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 112.0,
+      "end": 132.0,
+      "confidence": 0.8643,
+      "frame_count": 22
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 113.77,
+      "end": 115.77,
+      "text": "Двачая по 79 рубле за день."
+    },
+    {
+      "type": "object",
+      "label": "donut",
+      "start": 115.0,
+      "end": 117.0,
+      "confidence": 0.3938,
+      "frame_count": 3
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 115.77,
+      "end": 119.77,
+      "text": "Честно славиона 2 раза 99 рубле за день."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 116.0,
+      "end": 118.0,
+      "max_rms": 0.137366
+    },
+    {
+      "type": "object",
+      "label": "book",
+      "start": 118.0,
+      "end": 120.0,
+      "confidence": 0.427,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 119.77,
+      "end": 125.77,
+      "text": "Сахарная путра 39 рубле за день, гречка 90 грамм 32 рубля за день."
+    },
+    {
+      "type": "object",
+      "label": "refrigerator",
+      "start": 122.0,
+      "end": 123.0,
+      "confidence": 0.6326,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 125.77,
+      "end": 128.77,
+      "text": "Зефир шоколаде 179 рубле за день."
+    },
+    {
+      "type": "object",
+      "label": "tv",
+      "start": 128.0,
+      "end": 129.0,
+      "confidence": 0.3917,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 128.77,
+      "end": 132.77,
+      "text": "Сахар 59 рубле за килограмм зень."
+    },
+    {
+      "type": "object",
+      "label": "orange",
+      "start": 129.0,
+      "end": 132.0,
+      "confidence": 0.6794,
+      "frame_count": 3
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 132.77,
+      "end": 136.77,
+      "text": "В общем, мы закупились, не нашли по нашему списку несколько товаров."
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 133.0,
+      "end": 185.0,
+      "confidence": 0.8531,
+      "frame_count": 72
+    },
+    {
+      "type": "object",
+      "label": "bottle",
+      "start": 134.0,
+      "end": 135.0,
+      "confidence": 0.58,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "remote",
+      "start": 134.0,
+      "end": 135.0,
+      "confidence": 0.4214,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "remote",
+      "start": 136.0,
+      "end": 139.0,
+      "confidence": 0.769,
+      "frame_count": 3
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 136.77,
+      "end": 139.27,
+      "text": "К сожалению, их не было в позиции в продажах."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 139.27,
+      "end": 142.27,
+      "text": "Мы по чеку у нас, вы слышали, в 2001-1 рубль дзине."
+    },
+    {
+      "type": "object",
+      "label": "remote",
+      "start": 140.0,
+      "end": 142.0,
+      "confidence": 0.5364,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 142.27,
+      "end": 145.77,
+      "text": "Магазин нам понравился, есть, конечно, там небольшой минус,"
+    },
+    {
+      "type": "object",
+      "label": "surfboard",
+      "start": 143.0,
+      "end": 144.0,
+      "confidence": 0.501,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "bus",
+      "start": 144.0,
+      "end": 145.0,
+      "confidence": 0.4128,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "handbag",
+      "start": 144.0,
+      "end": 145.0,
+      "confidence": 0.3599,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "surfboard",
+      "start": 145.0,
+      "end": 147.0,
+      "confidence": 0.5284,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 145.77,
+      "end": 148.77,
+      "text": "но это считаем, лично мы, то что там нам показалось."
+    },
+    {
+      "type": "object",
+      "label": "parking meter",
+      "start": 147.0,
+      "end": 148.0,
+      "confidence": 0.4888,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 148.77,
+      "end": 150.27,
+      "text": "Немножко ограниченный эксперимент."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 150.0,
+      "end": 152.0,
+      "max_rms": 0.136979
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 150.27,
+      "end": 152.77,
+      "text": "Есть не все товары, которые мы покупаем."
+    },
+    {
+      "type": "object",
+      "label": "surfboard",
+      "start": 152.0,
+      "end": 153.0,
+      "confidence": 0.4982,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 152.77,
+      "end": 156.27,
+      "text": "То есть нам пришлось идти в другом магазин, докупать эти товары."
+    },
+    {
+      "type": "object",
+      "label": "tv",
+      "start": 153.0,
+      "end": 154.0,
+      "confidence": 0.3622,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 155.0,
+      "end": 156.0,
+      "confidence": 0.4303,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "surfboard",
+      "start": 156.0,
+      "end": 160.0,
+      "confidence": 0.448,
+      "frame_count": 4
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 156.27,
+      "end": 159.27,
+      "text": "Что нас удивило? Магазин нас удивилось, скоростная кассирша."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 159.27,
+      "end": 161.77,
+      "text": "Там просто на скорость отбивает товары."
+    },
+    {
+      "type": "object",
+      "label": "surfboard",
+      "start": 161.0,
+      "end": 166.0,
+      "confidence": 0.5213,
+      "frame_count": 5
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 161.77,
+      "end": 166.85,
+      "text": "очень быстро, а ж голова окружится, как она это быстро отбивает, но ее спросили, почему так она"
+    },
+    {
+      "type": "object",
+      "label": "snowboard",
+      "start": 163.0,
+      "end": 166.0,
+      "confidence": 0.4499,
+      "frame_count": 3
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 166.85,
+      "end": 173.77,
+      "text": "сказал, у нас требования такие, то есть это огромный лайк, то что когда приходишь, у нас был очень"
+    },
+    {
+      "type": "object",
+      "label": "parking meter",
+      "start": 168.0,
+      "end": 169.0,
+      "confidence": 0.3866,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "surfboard",
+      "start": 170.0,
+      "end": 172.0,
+      "confidence": 0.4087,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "snowboard",
+      "start": 171.0,
+      "end": 172.0,
+      "confidence": 0.3859,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "snowboard",
+      "start": 173.0,
+      "end": 174.0,
+      "confidence": 0.3673,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 173.0,
+      "end": 174.0,
+      "confidence": 0.4188,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 173.77,
+      "end": 179.61,
+      "text": "большой список товаров, она нас провела секунд за 20 просто, не забывайте подписываться на канал,"
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 175.0,
+      "end": 176.0,
+      "confidence": 0.3826,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "surfboard",
+      "start": 176.0,
+      "end": 177.0,
+      "confidence": 0.3661,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 177.0,
+      "end": 179.0,
+      "confidence": 0.4578,
+      "frame_count": 2
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 177.0,
+      "end": 179.0,
+      "max_rms": 0.136838
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 179.61,
+      "end": 184.05,
+      "text": "писать комментарии, ставить лайки, а мы скоро отправимся в другие магазины, до встречи!"
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 180.0,
+      "end": 181.0,
+      "confidence": 0.5197,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 181.0,
+      "end": 182.0,
+      "confidence": 0.4437,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 183.0,
+      "end": 184.0,
+      "confidence": 0.4483,
+      "frame_count": 2
+    }
+  ]
+}

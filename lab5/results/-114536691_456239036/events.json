@@ -1,0 +1,629 @@
+{
+  "id": "-114536691_456239036",
+  "event_count": 85,
+  "event_counts": {
+    "object": 23,
+    "speech": 24,
+    "volume": 38
+  },
+  "events": [
+    {
+      "type": "object",
+      "label": "person",
+      "start": 0.0,
+      "end": 97.717,
+      "confidence": 0.8504,
+      "frame_count": 86
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 0.0,
+      "end": 14.64,
+      "text": "Всем привет, ребят! Сегодня мы будем шуршать пакетикам. Сегодня у нас на обзоре лейс реплены,"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 0.0,
+      "end": 2.0,
+      "max_rms": 0.185536
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 11.0,
+      "end": 16.0,
+      "max_rms": 0.197439
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 14.64,
+      "end": 26.64,
+      "text": "лососи, сливочном соусе. Сто процентов гарантия качества, чтобы это не значило. Вообще лейс, это такое,"
+    },
+    {
+      "type": "object",
+      "label": "umbrella",
+      "start": 16.683,
+      "end": 17.875,
+      "confidence": 0.4085,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 18.0,
+      "end": 19.0,
+      "max_rms": 0.182274
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 20.0,
+      "end": 21.0,
+      "max_rms": 0.149171
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 24.0,
+      "end": 25.0,
+      "max_rms": 0.167052
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 26.64,
+      "end": 37.68,
+      "text": "знаете что-то из детства что-то такое оно всю жизнь с нами, помните еще"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 33.0,
+      "end": 35.0,
+      "max_rms": 0.174938
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 36.0,
+      "end": 37.0,
+      "max_rms": 0.120725
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 37.68,
+      "end": 44.04,
+      "text": "лошадь на рекламиру, санкция особо не был реали на лейс он также продается"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 40.0,
+      "end": 41.0,
+      "max_rms": 0.142907
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 43.0,
+      "end": 44.0,
+      "max_rms": 0.15233
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 44.04,
+      "end": 52.4,
+      "text": "в полном составе только единственной что он теперь с людьми 60 рублей а 160 такие дела вот за"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 46.0,
+      "end": 47.0,
+      "max_rms": 0.121843
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 48.0,
+      "end": 49.0,
+      "max_rms": 0.134754
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 51.0,
+      "end": 53.0,
+      "max_rms": 0.141358
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 52.4,
+      "end": 97.32,
+      "text": "Вот такой пачк, вот у нас здесь сколько, сколько, сколько, сколько здесь, ребята, я не могу найти здесь, а у, у, у, у, это у нас 140 грамм, да, 140 грамм всего-то, ну, давайте открывайте пробовать, открыли, вот, понюхайте,"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 71.0,
+      "end": 72.0,
+      "max_rms": 0.18524
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 73.0,
+      "end": 74.0,
+      "max_rms": 0.162684
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 73.883,
+      "end": 75.075,
+      "confidence": 0.3679,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "hot dog",
+      "start": 76.267,
+      "end": 78.65,
+      "confidence": 0.4763,
+      "frame_count": 2
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 84.0,
+      "end": 85.0,
+      "max_rms": 0.177771
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 96.0,
+      "end": 97.0,
+      "max_rms": 0.166138
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 97.32,
+      "end": 106.3,
+      "text": "в принципе в пахнет неплохо. Это серия рефленных, то есть не плоские, такие объемные."
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 98.908,
+      "end": 122.742,
+      "confidence": 0.8379,
+      "frame_count": 20
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 102.0,
+      "end": 104.0,
+      "max_rms": 0.188719
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 106.3,
+      "end": 113.28,
+      "text": "Раньше только один вкус был таких объемных. Не помню с чем. Синенькие такие, можно помнить."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 113.28,
+      "end": 122.78,
+      "text": "Сейчас еще такие появились. Ну, в принципе, так смотришь, все лежат один к одному,"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 119.0,
+      "end": 120.0,
+      "max_rms": 0.156807
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 121.0,
+      "end": 124.0,
+      "max_rms": 0.147168
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 122.78,
+      "end": 130.0,
+      "text": "то есть все не пожомканные, все цельные кусочки. Давайте"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 125.0,
+      "end": 126.0,
+      "max_rms": 0.150487
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 126.317,
+      "end": 158.492,
+      "confidence": 0.8879,
+      "frame_count": 28
+    },
+    {
+      "type": "object",
+      "label": "cup",
+      "start": 128.7,
+      "end": 132.275,
+      "confidence": 0.4949,
+      "frame_count": 3
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 130.0,
+      "end": 150.36,
+      "text": "тестировать неплохо. Конечно же это лейс, они держат"
+    },
+    {
+      "type": "object",
+      "label": "cup",
+      "start": 145.383,
+      "end": 151.342,
+      "confidence": 0.5,
+      "frame_count": 5
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 147.0,
+      "end": 148.0,
+      "max_rms": 0.132653
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 150.36,
+      "end": 165.88,
+      "text": "марту, но где здесь ласос с ючным соусом? Пробивается"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 152.0,
+      "end": 153.0,
+      "max_rms": 0.122292
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 156.0,
+      "end": 157.0,
+      "max_rms": 0.135538
+    },
+    {
+      "type": "object",
+      "label": "traffic light",
+      "start": 162.067,
+      "end": 163.259,
+      "confidence": 0.4575,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 163.258,
+      "end": 283.617,
+      "confidence": 0.8445,
+      "frame_count": 101
+    },
+    {
+      "type": "object",
+      "label": "tie",
+      "start": 163.258,
+      "end": 164.45,
+      "confidence": 0.4936,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 165.0,
+      "end": 167.0,
+      "max_rms": 0.18471
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 165.88,
+      "end": 176.64,
+      "text": "тонкий запах чего-то рыбного, но вкуса, вкуса, вкуса"
+    },
+    {
+      "type": "object",
+      "label": "tie",
+      "start": 166.833,
+      "end": 168.025,
+      "confidence": 0.3511,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 168.0,
+      "end": 169.0,
+      "max_rms": 0.153233
+    },
+    {
+      "type": "object",
+      "label": "sports ball",
+      "start": 172.792,
+      "end": 175.175,
+      "confidence": 0.4238,
+      "frame_count": 2
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 176.0,
+      "end": 177.0,
+      "max_rms": 0.148015
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 176.64,
+      "end": 179.72,
+      "text": "маловато, но в принципе это непротивный хип-собсалютно."
+    },
+    {
+      "type": "object",
+      "label": "sports ball",
+      "start": 177.558,
+      "end": 182.325,
+      "confidence": 0.4046,
+      "frame_count": 4
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 179.72,
+      "end": 188.56,
+      "text": "очень вкусные, приятные. Очень нравится то, что они такие толстые сами по себе, то есть,"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 184.0,
+      "end": 185.0,
+      "max_rms": 0.132451
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 188.56,
+      "end": 196.88,
+      "text": "но они рифлены. Это конечно, скорее всего, обман зрения и по факту это те же самые"
+    },
+    {
+      "type": "object",
+      "label": "toothbrush",
+      "start": 191.858,
+      "end": 193.05,
+      "confidence": 0.489,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 192.0,
+      "end": 194.0,
+      "max_rms": 0.159344
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 196.88,
+      "end": 210.94,
+      "text": "плоские чипсы, но все равно приятно. Давайте поставим этим грифленным чипсом 70-10,"
+    },
+    {
+      "type": "object",
+      "label": "stop sign",
+      "start": 209.733,
+      "end": 210.925,
+      "confidence": 0.4369,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 210.94,
+      "end": 219.22,
+      "text": "до восьмерки не дотягивает, это необломные чипсы, это вкусные чипсы, но вкуса"
+    },
+    {
+      "type": "object",
+      "label": "tie",
+      "start": 213.308,
+      "end": 215.692,
+      "confidence": 0.3657,
+      "frame_count": 2
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 215.0,
+      "end": 216.0,
+      "max_rms": 0.134748
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 218.0,
+      "end": 219.0,
+      "max_rms": 0.143087
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 219.22,
+      "end": 228.66,
+      "text": "какой-то определенного нету, вот нету у вас сосе, есть он тирыбный запах, ну и все, странно,"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 220.0,
+      "end": 221.0,
+      "max_rms": 0.13302
+    },
+    {
+      "type": "object",
+      "label": "tie",
+      "start": 221.65,
+      "end": 222.842,
+      "confidence": 0.3507,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 225.0,
+      "end": 226.0,
+      "max_rms": 0.142389
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 228.66,
+      "end": 246.66,
+      "text": "я прям хочу почувствовать лососи, мне не дали лососи, 70, мало вкуса, мало мало мало вкуса,"
+    },
+    {
+      "type": "object",
+      "label": "sports ball",
+      "start": 228.8,
+      "end": 229.992,
+      "confidence": 0.6812,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 230.0,
+      "end": 231.0,
+      "max_rms": 0.149711
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 232.0,
+      "end": 233.0,
+      "max_rms": 0.170948
+    },
+    {
+      "type": "object",
+      "label": "sports ball",
+      "start": 233.567,
+      "end": 234.759,
+      "confidence": 0.4469,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 242.0,
+      "end": 244.0,
+      "max_rms": 0.154598
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 245.0,
+      "end": 246.0,
+      "max_rms": 0.135564
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 246.66,
+      "end": 255.62,
+      "text": "но чипсы в зачёвные все равно это 7 с плюсом из 10 это не 7 с минусом как мы до широко поставили"
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 255.62,
+      "end": 267.98,
+      "text": "недавно ладно ребят я могу рекомендовать эти чипсы подписывайтесь на канал в контакте"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 263.0,
+      "end": 264.0,
+      "max_rms": 0.185573
+    },
+    {
+      "type": "object",
+      "label": "snowboard",
+      "start": 265.742,
+      "end": 266.934,
+      "confidence": 0.455,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "stop sign",
+      "start": 266.933,
+      "end": 268.125,
+      "confidence": 0.4665,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 267.98,
+      "end": 276.58,
+      "text": "смотрите меня там подписывайтесь на канал youtube там меня смотрит меньше но все равно подписывайтесь туда"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 271.0,
+      "end": 272.0,
+      "max_rms": 0.124584
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 276.58,
+      "end": 284.74,
+      "text": "тоже подзаливать все вот такие пироги с котятами все пока"
+    },
+    {
+      "type": "object",
+      "label": "stop sign",
+      "start": 281.233,
+      "end": 282.425,
+      "confidence": 0.4125,
+      "frame_count": 1
+    }
+  ]
+}

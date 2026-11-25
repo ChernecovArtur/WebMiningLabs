@@ -1,0 +1,888 @@
+{
+  "id": "-158504201_456239297",
+  "event_count": 116,
+  "event_counts": {
+    "object": 65,
+    "speech": 37,
+    "volume": 14
+  },
+  "events": [
+    {
+      "type": "object",
+      "label": "person",
+      "start": 0.0,
+      "end": 5.0,
+      "confidence": 0.6346,
+      "frame_count": 33
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 0.0,
+      "end": 10.14,
+      "text": "Уважаемые партнеры рада вас приветствовать на очередной выставке"
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 2.0,
+      "end": 3.0,
+      "confidence": 0.3948,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "horse",
+      "start": 3.0,
+      "end": 4.0,
+      "confidence": 0.6477,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "cup",
+      "start": 4.0,
+      "end": 5.0,
+      "confidence": 0.7984,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 4.0,
+      "end": 5.0,
+      "confidence": 0.4328,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 7.0,
+      "end": 15.0,
+      "confidence": 0.9074,
+      "frame_count": 17
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 7.0,
+      "end": 8.0,
+      "max_rms": 0.175187
+    },
+    {
+      "type": "object",
+      "label": "teddy bear",
+      "start": 8.0,
+      "end": 10.0,
+      "confidence": 0.4909,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "bus",
+      "start": 8.0,
+      "end": 9.0,
+      "confidence": 0.3549,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 10.0,
+      "end": 13.0,
+      "confidence": 0.3901,
+      "frame_count": 3
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 10.14,
+      "end": 14.5,
+      "text": "рудник 2026. Посляим вашему вниманию технику антей"
+    },
+    {
+      "type": "object",
+      "label": "teddy bear",
+      "start": 12.0,
+      "end": 15.0,
+      "confidence": 0.5783,
+      "frame_count": 3
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 12.0,
+      "end": 13.0,
+      "max_rms": 0.150366
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 14.5,
+      "end": 16.3,
+      "text": "производство завода КАНФ."
+    },
+    {
+      "type": "object",
+      "label": "book",
+      "start": 16.0,
+      "end": 17.0,
+      "confidence": 0.3546,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 16.3,
+      "end": 20.86,
+      "text": "Для 2026 году завод КАНФ запустил новую линейку под брендом"
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 19.0,
+      "end": 20.0,
+      "confidence": 0.7306,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "teddy bear",
+      "start": 20.0,
+      "end": 22.0,
+      "confidence": 0.7289,
+      "frame_count": 4
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 20.86,
+      "end": 24.42,
+      "text": "Антей, адаптированным под российский рынок под требования"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 22.0,
+      "end": 23.0,
+      "confidence": 0.7649,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 22.0,
+      "end": 23.0,
+      "confidence": 0.7172,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 22.0,
+      "end": 23.0,
+      "max_rms": 0.138856
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 24.0,
+      "end": 27.0,
+      "confidence": 0.7906,
+      "frame_count": 10
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 24.0,
+      "end": 26.0,
+      "confidence": 0.7363,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 24.42,
+      "end": 28.3,
+      "text": "российских заказчиков. Целью адаптации техники было"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 26.0,
+      "end": 27.0,
+      "max_rms": 0.150969
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 27.0,
+      "end": 29.0,
+      "confidence": 0.4881,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 28.3,
+      "end": 32.78,
+      "text": "решить вопрос с серистным обсуждением техники,"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 29.0,
+      "end": 32.0,
+      "confidence": 0.8431,
+      "frame_count": 8
+    },
+    {
+      "type": "object",
+      "label": "bus",
+      "start": 29.0,
+      "end": 30.0,
+      "confidence": 0.3721,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 31.0,
+      "end": 32.0,
+      "confidence": 0.4805,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 32.0,
+      "end": 33.0,
+      "confidence": 0.6457,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 32.78,
+      "end": 37.26,
+      "text": "улучшением качества техники под наши суровые климатические условия,"
+    },
+    {
+      "type": "object",
+      "label": "traffic light",
+      "start": 35.0,
+      "end": 37.0,
+      "confidence": 0.6469,
+      "frame_count": 2
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 35.0,
+      "end": 36.0,
+      "max_rms": 0.141866
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 37.26,
+      "end": 39.34,
+      "text": "которые непосредственно у наших заказчика."
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 38.0,
+      "end": 43.0,
+      "confidence": 0.7462,
+      "frame_count": 9
+    },
+    {
+      "type": "object",
+      "label": "book",
+      "start": 38.0,
+      "end": 40.0,
+      "confidence": 0.4975,
+      "frame_count": 3
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 39.34,
+      "end": 43.74,
+      "text": "На выставке рудник 2026 мы привезли модернизированный автобус"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 42.0,
+      "end": 43.0,
+      "max_rms": 0.127095
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 43.0,
+      "end": 45.0,
+      "confidence": 0.4295,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 43.74,
+      "end": 45.18,
+      "text": "Антей по 10."
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 45.0,
+      "end": 46.0,
+      "confidence": 0.8335,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 45.18,
+      "end": 47.62,
+      "text": "Мой коллега обязательно подробно расскажет."
+    },
+    {
+      "type": "object",
+      "label": "stop sign",
+      "start": 46.0,
+      "end": 47.0,
+      "confidence": 0.6834,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 47.0,
+      "end": 51.0,
+      "confidence": 0.864,
+      "frame_count": 6
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 47.0,
+      "end": 49.0,
+      "confidence": 0.5271,
+      "frame_count": 5
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 47.0,
+      "end": 54.0,
+      "confidence": 0.6408,
+      "frame_count": 7
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 47.62,
+      "end": 51.38,
+      "text": "Первую очередь мы заменили камерные колеса на без камерные."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 51.38,
+      "end": 53.42,
+      "text": "Во-первых, они себя лучше показывают."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 53.42,
+      "end": 57.82,
+      "text": "Во-вторых, их проще приобрести заказчику на российском рынке."
+    },
+    {
+      "type": "object",
+      "label": "car",
+      "start": 54.0,
+      "end": 56.0,
+      "confidence": 0.3772,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 57.82,
+      "end": 62.86,
+      "text": "Затем мы установили защиты на различных ключевые элементы"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 58.0,
+      "end": 63.0,
+      "confidence": 0.9025,
+      "frame_count": 5
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 58.0,
+      "end": 59.0,
+      "confidence": 0.4365,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 58.0,
+      "end": 59.0,
+      "max_rms": 0.14652
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 59.0,
+      "end": 60.0,
+      "confidence": 0.3696,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 60.0,
+      "end": 61.0,
+      "confidence": 0.4761,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 61.0,
+      "end": 63.0,
+      "confidence": 0.6967,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 62.86,
+      "end": 67.46,
+      "text": "пузы на радиаторы, затем на гидравлическую систему"
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 63.0,
+      "end": 64.0,
+      "confidence": 0.559,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "suitcase",
+      "start": 63.0,
+      "end": 64.0,
+      "confidence": 0.3819,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 64.0,
+      "end": 65.0,
+      "max_rms": 0.146587
+    },
+    {
+      "type": "object",
+      "label": "suitcase",
+      "start": 65.0,
+      "end": 66.0,
+      "confidence": 0.4509,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 67.46,
+      "end": 69.94,
+      "text": "коробку передач и систему выслапа."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 69.94,
+      "end": 73.74,
+      "text": "Поставили в видеонаблюдение 360 камера в салоне."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 70.0,
+      "end": 71.0,
+      "max_rms": 0.151289
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 71.0,
+      "end": 74.0,
+      "confidence": 0.9287,
+      "frame_count": 3
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 72.0,
+      "end": 73.0,
+      "max_rms": 0.127444
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 73.74,
+      "end": 76.86,
+      "text": "Это видеонаблюдение с жестким диском на терабайт."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 76.0,
+      "end": 78.0,
+      "max_rms": 0.190599
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 76.86,
+      "end": 79.78,
+      "text": "Модорнизировали переключатель передач."
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 77.0,
+      "end": 80.0,
+      "confidence": 0.8996,
+      "frame_count": 3
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 79.78,
+      "end": 82.82,
+      "text": "Сейчас у нас механической защиты, что не позволяет"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 82.0,
+      "end": 84.0,
+      "confidence": 0.4948,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 82.82,
+      "end": 85.58,
+      "text": "включить заднюю передачу, когда ты двигаешься вперед."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 85.58,
+      "end": 89.82,
+      "text": "установили инвертер на 220 вольч, позволяют подключать"
+    },
+    {
+      "type": "object",
+      "label": "clock",
+      "start": 88.0,
+      "end": 92.0,
+      "confidence": 0.6663,
+      "frame_count": 4
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 89.82,
+      "end": 91.82,
+      "text": "электрическое оборудование."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 91.82,
+      "end": 96.38,
+      "text": "Также у нас произошла замена руководов и высокого давления."
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 92.0,
+      "end": 94.0,
+      "confidence": 0.9225,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "bus",
+      "start": 92.0,
+      "end": 94.0,
+      "confidence": 0.5343,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "clock",
+      "start": 94.0,
+      "end": 98.0,
+      "confidence": 0.754,
+      "frame_count": 16
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 96.38,
+      "end": 99.02,
+      "text": "Сейчас они марзостойки электропроводку освещения"
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 98.0,
+      "end": 101.0,
+      "confidence": 0.7381,
+      "frame_count": 3
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 99.02,
+      "end": 103.22,
+      "text": "вымпоменяли, а она сейчас тоже марзостойка, что позволяет"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 100.0,
+      "end": 123.0,
+      "confidence": 0.7838,
+      "frame_count": 50
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 100.0,
+      "end": 103.0,
+      "confidence": 0.744,
+      "frame_count": 6
+    },
+    {
+      "type": "object",
+      "label": "teddy bear",
+      "start": 102.0,
+      "end": 103.0,
+      "confidence": 0.38,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 102.0,
+      "end": 103.0,
+      "confidence": 0.4841,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 103.22,
+      "end": 107.7,
+      "text": "служить этим элементом на много дольше суровых климатах."
+    },
+    {
+      "type": "object",
+      "label": "teddy bear",
+      "start": 107.0,
+      "end": 108.0,
+      "confidence": 0.7224,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 107.0,
+      "end": 108.0,
+      "confidence": 0.7895,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 107.7,
+      "end": 113.54,
+      "text": "Естественно, завод канф не стоит на месте, и в будущем"
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 108.0,
+      "end": 109.0,
+      "confidence": 0.8091,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 109.0,
+      "end": 110.0,
+      "max_rms": 0.129351
+    },
+    {
+      "type": "object",
+      "label": "bus",
+      "start": 112.0,
+      "end": 113.0,
+      "confidence": 0.4222,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 113.54,
+      "end": 118.3,
+      "text": "Скорее всего, в 2017 году мы увидим новую линейку техники"
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 114.0,
+      "end": 115.0,
+      "confidence": 0.3624,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 116.0,
+      "end": 117.0,
+      "max_rms": 0.134018
+    },
+    {
+      "type": "object",
+      "label": "bus",
+      "start": 117.0,
+      "end": 118.0,
+      "confidence": 0.3736,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 118.3,
+      "end": 122.82,
+      "text": "АНТАИ с независимым подвеской и новой ходовой"
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 121.0,
+      "end": 123.0,
+      "confidence": 0.5467,
+      "frame_count": 4
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 121.0,
+      "end": 122.0,
+      "max_rms": 0.130267
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 122.82,
+      "end": 124.34,
+      "text": "и трансмиссионной частью."
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 124.0,
+      "end": 125.0,
+      "confidence": 0.367,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 124.34,
+      "end": 127.14,
+      "text": "Мы обязательно представим это на будущих выставках"
+    },
+    {
+      "type": "object",
+      "label": "bus",
+      "start": 125.0,
+      "end": 126.0,
+      "confidence": 0.4578,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 125.0,
+      "end": 127.0,
+      "confidence": 0.4209,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 127.14,
+      "end": 129.58,
+      "text": "и анонсируемо это в наших партнеров."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 129.58,
+      "end": 134.38,
+      "text": "Обращайтесь в компанию АСТ, за техники АНТАИ она будет"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 130.0,
+      "end": 136.0,
+      "confidence": 0.9308,
+      "frame_count": 12
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 132.0,
+      "end": 133.0,
+      "confidence": 0.3831,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "bus",
+      "start": 134.0,
+      "end": 136.0,
+      "confidence": 0.3709,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 134.38,
+      "end": 135.62,
+      "text": "работать любой шахте."
+    }
+  ]
+}

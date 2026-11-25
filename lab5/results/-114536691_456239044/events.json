@@ -1,0 +1,970 @@
+{
+  "id": "-114536691_456239044",
+  "event_count": 127,
+  "event_counts": {
+    "object": 70,
+    "speech": 25,
+    "volume": 32
+  },
+  "events": [
+    {
+      "type": "object",
+      "label": "person",
+      "start": 0.0,
+      "end": 149.559,
+      "confidence": 0.8596,
+      "frame_count": 131
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 0.0,
+      "end": 1.142,
+      "confidence": 0.5724,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "bowl",
+      "start": 0.0,
+      "end": 1.142,
+      "confidence": 0.4333,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 1.07,
+      "end": 5.63,
+      "text": "Всем привет, ребят. Сегодня у нас на Амзоре"
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 2.283,
+      "end": 3.425,
+      "confidence": 0.4755,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "cup",
+      "start": 3.425,
+      "end": 4.567,
+      "confidence": 0.498,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "bed",
+      "start": 3.425,
+      "end": 4.567,
+      "confidence": 0.4555,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 4.0,
+      "end": 5.0,
+      "max_rms": 0.08477
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 5.63,
+      "end": 12.99,
+      "text": "Бегбон максимальный обед, пюре картофельное, подомашьте муску, сошка, тушеный куриц,"
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 5.708,
+      "end": 46.809,
+      "confidence": 0.5519,
+      "frame_count": 36
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 6.0,
+      "end": 8.0,
+      "max_rms": 0.078509
+    },
+    {
+      "type": "object",
+      "label": "bowl",
+      "start": 7.992,
+      "end": 11.417,
+      "confidence": 0.4686,
+      "frame_count": 3
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 9.0,
+      "end": 11.0,
+      "max_rms": 0.090713
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 12.0,
+      "end": 14.0,
+      "max_rms": 0.080424
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 12.99,
+      "end": 23.91,
+      "text": "соус жареный куриц. Такие дела, пюре кури, здесь есть носка. Макс по-английски"
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 15.983,
+      "end": 17.125,
+      "confidence": 0.5342,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 16.0,
+      "end": 17.0,
+      "max_rms": 0.074082
+    },
+    {
+      "type": "object",
+      "label": "banana",
+      "start": 17.125,
+      "end": 18.267,
+      "confidence": 0.5343,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 18.0,
+      "end": 19.0,
+      "max_rms": 0.075695
+    },
+    {
+      "type": "object",
+      "label": "bed",
+      "start": 18.267,
+      "end": 20.55,
+      "confidence": 0.3902,
+      "frame_count": 2
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 21.0,
+      "end": 22.0,
+      "max_rms": 0.074565
+    },
+    {
+      "type": "object",
+      "label": "bed",
+      "start": 21.692,
+      "end": 22.834,
+      "confidence": 0.3694,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 23.0,
+      "end": 25.0,
+      "max_rms": 0.078666
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 23.91,
+      "end": 30.93,
+      "text": "Сималли, тирое мысльималли, у меня не понятно, ну ладно, узкоперы готовленные в табилку налей,"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 26.0,
+      "end": 28.0,
+      "max_rms": 0.070799
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 30.0,
+      "end": 32.0,
+      "max_rms": 0.081109
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 30.93,
+      "end": 35.43,
+      "text": "ты с письмами будешь хорошо и не шеет, ты будешь хорошо и не шеет, ты будешь хорошо и не шеет,"
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 35.43,
+      "end": 43.05,
+      "text": "теперь мне давать, переехать, сусы не шеет, ну готовы приятным петитам, давайте заценись,"
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 43.05,
+      "end": 60.08,
+      "text": "добавляет чёрную такая страна, чёрную такая коробка, ну ладно, есть у нас порошок,"
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 43.383,
+      "end": 44.525,
+      "confidence": 0.5353,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 46.808,
+      "end": 47.95,
+      "confidence": 0.7018,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "cake",
+      "start": 46.808,
+      "end": 47.95,
+      "confidence": 0.4315,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "bowl",
+      "start": 47.95,
+      "end": 51.375,
+      "confidence": 0.3955,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 49.092,
+      "end": 50.234,
+      "confidence": 0.4975,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "bed",
+      "start": 50.233,
+      "end": 54.8,
+      "confidence": 0.4803,
+      "frame_count": 4
+    },
+    {
+      "type": "object",
+      "label": "bowl",
+      "start": 55.942,
+      "end": 61.65,
+      "confidence": 0.5041,
+      "frame_count": 7
+    },
+    {
+      "type": "object",
+      "label": "bed",
+      "start": 55.942,
+      "end": 57.084,
+      "confidence": 0.6652,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 55.942,
+      "end": 57.084,
+      "confidence": 0.427,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 59.367,
+      "end": 69.642,
+      "confidence": 0.4877,
+      "frame_count": 9
+    },
+    {
+      "type": "object",
+      "label": "cup",
+      "start": 59.367,
+      "end": 60.509,
+      "confidence": 0.4457,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 60.08,
+      "end": 77.94,
+      "text": "как топеля, соус, милка и куриц тушеная, а туранная, душевная мяку без консервантов."
+    },
+    {
+      "type": "object",
+      "label": "bowl",
+      "start": 62.792,
+      "end": 69.642,
+      "confidence": 0.4041,
+      "frame_count": 9
+    },
+    {
+      "type": "object",
+      "label": "bed",
+      "start": 62.792,
+      "end": 63.934,
+      "confidence": 0.3698,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 70.783,
+      "end": 73.067,
+      "confidence": 0.5033,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "bowl",
+      "start": 70.783,
+      "end": 83.342,
+      "confidence": 0.439,
+      "frame_count": 18
+    },
+    {
+      "type": "object",
+      "label": "knife",
+      "start": 70.783,
+      "end": 75.35,
+      "confidence": 0.4104,
+      "frame_count": 4
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 73.067,
+      "end": 74.209,
+      "confidence": 0.4859,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 74.208,
+      "end": 79.917,
+      "confidence": 0.4979,
+      "frame_count": 5
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 75.0,
+      "end": 76.0,
+      "max_rms": 0.079849
+    },
+    {
+      "type": "object",
+      "label": "knife",
+      "start": 77.633,
+      "end": 78.775,
+      "confidence": 0.5252,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 77.94,
+      "end": 102.5,
+      "text": "Интересно, давайте все высыпаем, зальенки, петточка, перемешаем."
+    },
+    {
+      "type": "object",
+      "label": "bed",
+      "start": 78.775,
+      "end": 79.917,
+      "confidence": 0.4635,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 81.058,
+      "end": 87.909,
+      "confidence": 0.4388,
+      "frame_count": 6
+    },
+    {
+      "type": "object",
+      "label": "bed",
+      "start": 82.2,
+      "end": 83.342,
+      "confidence": 0.5366,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 82.2,
+      "end": 83.342,
+      "confidence": 0.4096,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "knife",
+      "start": 82.2,
+      "end": 83.342,
+      "confidence": 0.3572,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "bed",
+      "start": 85.625,
+      "end": 86.767,
+      "confidence": 0.3856,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "bowl",
+      "start": 87.908,
+      "end": 89.05,
+      "confidence": 0.3683,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 89.05,
+      "end": 92.475,
+      "confidence": 0.6206,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "bowl",
+      "start": 92.475,
+      "end": 139.284,
+      "confidence": 0.7732,
+      "frame_count": 45
+    },
+    {
+      "type": "object",
+      "label": "cup",
+      "start": 92.475,
+      "end": 110.742,
+      "confidence": 0.7275,
+      "frame_count": 48
+    },
+    {
+      "type": "object",
+      "label": "bottle",
+      "start": 93.617,
+      "end": 100.467,
+      "confidence": 0.7,
+      "frame_count": 6
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 97.042,
+      "end": 98.184,
+      "confidence": 0.3664,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "bottle",
+      "start": 101.608,
+      "end": 103.892,
+      "confidence": 0.438,
+      "frame_count": 3
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 102.5,
+      "end": 113.18,
+      "text": "Здесь в пюрышке уже есть морковка, елку уже в замешанную муку."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 107.0,
+      "end": 110.0,
+      "max_rms": 0.090426
+    },
+    {
+      "type": "object",
+      "label": "cup",
+      "start": 111.883,
+      "end": 191.8,
+      "confidence": 0.7272,
+      "frame_count": 264
+    },
+    {
+      "type": "object",
+      "label": "bottle",
+      "start": 111.883,
+      "end": 117.592,
+      "confidence": 0.5365,
+      "frame_count": 6
+    },
+    {
+      "type": "object",
+      "label": "spoon",
+      "start": 111.883,
+      "end": 113.025,
+      "confidence": 0.4549,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 112.0,
+      "end": 113.0,
+      "max_rms": 0.079793
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 113.025,
+      "end": 114.167,
+      "confidence": 0.4129,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 113.18,
+      "end": 142.27,
+      "text": "получилось, давайте добавим соус, не хочет открываться на бонежки, это у нас"
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 118.733,
+      "end": 119.875,
+      "confidence": 0.3615,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "bottle",
+      "start": 119.875,
+      "end": 191.8,
+      "confidence": 0.5496,
+      "frame_count": 83
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 121.017,
+      "end": 123.3,
+      "confidence": 0.5363,
+      "frame_count": 2
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 124.0,
+      "end": 125.0,
+      "max_rms": 0.070111
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 124.442,
+      "end": 127.867,
+      "confidence": 0.3761,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "spoon",
+      "start": 126.725,
+      "end": 127.867,
+      "confidence": 0.352,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 130.15,
+      "end": 134.717,
+      "confidence": 0.4132,
+      "frame_count": 4
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 134.0,
+      "end": 137.0,
+      "max_rms": 0.080386
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 142.27,
+      "end": 154.16,
+      "text": "типа не соуса, типа жир, типа масло, да, это масло, ну и чего, нормально,"
+    },
+    {
+      "type": "object",
+      "label": "bowl",
+      "start": 142.708,
+      "end": 143.85,
+      "confidence": 0.4623,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 144.0,
+      "end": 145.0,
+      "max_rms": 0.072408
+    },
+    {
+      "type": "object",
+      "label": "bowl",
+      "start": 146.133,
+      "end": 162.117,
+      "confidence": 0.7662,
+      "frame_count": 14
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 148.417,
+      "end": 149.559,
+      "confidence": 0.4013,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "spoon",
+      "start": 149.558,
+      "end": 150.7,
+      "confidence": 0.4069,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 150.7,
+      "end": 274.0,
+      "confidence": 0.8661,
+      "frame_count": 108
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 153.0,
+      "end": 154.0,
+      "max_rms": 0.080249
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 154.125,
+      "end": 155.267,
+      "confidence": 0.433,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "spoon",
+      "start": 154.125,
+      "end": 157.55,
+      "confidence": 0.4649,
+      "frame_count": 3
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 154.16,
+      "end": 169.21,
+      "text": "так почему это называется соус, прям жидко, да и уал, уал, прям два кусочка курица,"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 161.0,
+      "end": 163.0,
+      "max_rms": 0.089916
+    },
+    {
+      "type": "object",
+      "label": "bowl",
+      "start": 163.258,
+      "end": 166.684,
+      "confidence": 0.5153,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "bowl",
+      "start": 167.825,
+      "end": 187.234,
+      "confidence": 0.7864,
+      "frame_count": 17
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 168.0,
+      "end": 169.0,
+      "max_rms": 0.078531
+    },
+    {
+      "type": "object",
+      "label": "spoon",
+      "start": 168.967,
+      "end": 170.109,
+      "confidence": 0.3946,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 169.21,
+      "end": 191.06,
+      "text": "не может не радовать, не мешаем, не мешаем, масло, два кусочка курица, все подождем пока"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 172.0,
+      "end": 173.0,
+      "max_rms": 0.072996
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 174.0,
+      "end": 175.0,
+      "max_rms": 0.080488
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 180.0,
+      "end": 181.0,
+      "max_rms": 0.0808
+    },
+    {
+      "type": "object",
+      "label": "bowl",
+      "start": 188.375,
+      "end": 192.942,
+      "confidence": 0.7235,
+      "frame_count": 4
+    },
+    {
+      "type": "object",
+      "label": "spoon",
+      "start": 190.658,
+      "end": 191.8,
+      "confidence": 0.6075,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 191.06,
+      "end": 207.04,
+      "text": "остынет, и так, у нас остыла, теперь давайте пробовать химическая котошка приятная, довольно"
+    },
+    {
+      "type": "object",
+      "label": "bowl",
+      "start": 194.083,
+      "end": 222.625,
+      "confidence": 0.8078,
+      "frame_count": 25
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 207.04,
+      "end": 219.3,
+      "text": "вкусная кусочек курица, стоит порядка 160 рублей, но здесь целый ударил, это может"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 216.0,
+      "end": 217.0,
+      "max_rms": 0.075331
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 218.0,
+      "end": 221.0,
+      "max_rms": 0.078826
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 219.3,
+      "end": 224.98,
+      "text": "ну похручи нормально. 460 грамм готового продукта написал."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 223.0,
+      "end": 224.0,
+      "max_rms": 0.082714
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 224.98,
+      "end": 228.3,
+      "text": "испортка сухом или я не увидел 110 грамм."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 226.0,
+      "end": 228.0,
+      "max_rms": 0.094352
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 228.3,
+      "end": 233.77,
+      "text": "Очень приятная копефельная пюрешка."
+    },
+    {
+      "type": "object",
+      "label": "cup",
+      "start": 229.475,
+      "end": 230.617,
+      "confidence": 0.4072,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "bowl",
+      "start": 230.617,
+      "end": 243.175,
+      "confidence": 0.7526,
+      "frame_count": 11
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 231.0,
+      "end": 232.0,
+      "max_rms": 0.069383
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 233.77,
+      "end": 244.09,
+      "text": "Испорство обзора. Кушнятие на ребят."
+    },
+    {
+      "type": "object",
+      "label": "cup",
+      "start": 237.467,
+      "end": 238.609,
+      "confidence": 0.4676,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 238.0,
+      "end": 239.0,
+      "max_rms": 0.071489
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 244.0,
+      "end": 245.0,
+      "max_rms": 0.074359
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 244.09,
+      "end": 247.37,
+      "text": "Но стоит дорого. 167 струблей."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 247.37,
+      "end": 253.25,
+      "text": "В принципе, хорошая крепкая семерка,"
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 253.25,
+      "end": 260.57,
+      "text": "но только из-за того, что стоит дорого, а так на жористо вкусно приятно, можно прямо"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 258.0,
+      "end": 261.0,
+      "max_rms": 0.091952
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 260.57,
+      "end": 269.33,
+      "text": "обедать вот этим вот не просто перекусить, все ребят, все, всем пока, хорошая блюда."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 263.0,
+      "end": 264.0,
+      "max_rms": 0.069662
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 269.33,
+      "end": 274.13,
+      "text": "Подписывайтесь на мою группу в контакте."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 272.0,
+      "end": 274.0,
+      "max_rms": 0.072606
+    }
+  ]
+}

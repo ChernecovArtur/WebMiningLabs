@@ -1,0 +1,1648 @@
+{
+  "id": "-133129272_456239621",
+  "event_count": 214,
+  "event_counts": {
+    "object": 139,
+    "speech": 62,
+    "volume": 13
+  },
+  "events": [
+    {
+      "type": "object",
+      "label": "person",
+      "start": 0.0,
+      "end": 12.25,
+      "confidence": 0.7623,
+      "frame_count": 43
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 0.02,
+      "end": 5.76,
+      "text": "Москва, Кропус Экспа, главная инструментальная выставка страны МИТЕКС 26."
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 4.9,
+      "end": 6.125,
+      "confidence": 0.6788,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "handbag",
+      "start": 4.9,
+      "end": 6.125,
+      "confidence": 0.4453,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "laptop",
+      "start": 4.9,
+      "end": 6.125,
+      "confidence": 0.4413,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "bottle",
+      "start": 4.9,
+      "end": 6.125,
+      "confidence": 0.4154,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 5.76,
+      "end": 10.38,
+      "text": "Ругон, пилы, перпораторы, лазерные уровни, но только мы привезли,"
+    },
+    {
+      "type": "object",
+      "label": "surfboard",
+      "start": 8.575,
+      "end": 11.025,
+      "confidence": 0.3849,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 9.8,
+      "end": 11.025,
+      "confidence": 0.7096,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 10.38,
+      "end": 12.88,
+      "text": "то, на чём реально держится хозяйство."
+    },
+    {
+      "type": "object",
+      "label": "handbag",
+      "start": 11.025,
+      "end": 12.25,
+      "confidence": 0.363,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 12.25,
+      "end": 13.475,
+      "confidence": 0.4749,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 12.88,
+      "end": 18.96,
+      "text": "Дизельный трактор 0,15 с отвалом и полноприводный грузовой квадроцикл, фермер 300."
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 13.475,
+      "end": 14.7,
+      "confidence": 0.4646,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 14.7,
+      "end": 15.925,
+      "confidence": 0.6737,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 14.7,
+      "end": 15.925,
+      "confidence": 0.8118,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 15.925,
+      "end": 17.15,
+      "confidence": 0.7193,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 17.15,
+      "end": 24.5,
+      "confidence": 0.7515,
+      "frame_count": 12
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 18.96,
+      "end": 24.82,
+      "text": "Сегодня мы разберём всё железо по косточкам и спросим в реальных посетителей, что они думают о нашей технике."
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 19.6,
+      "end": 23.275,
+      "confidence": 0.5212,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "tv",
+      "start": 19.6,
+      "end": 20.825,
+      "confidence": 0.3604,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 24.82,
+      "end": 40.18,
+      "text": "И начнём мы с нашего главного зимнего оружия TZR-015 дизельный трактор с отвалом."
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 25.725,
+      "end": 29.4,
+      "confidence": 0.7828,
+      "frame_count": 9
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 25.725,
+      "end": 26.95,
+      "confidence": 0.437,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "bottle",
+      "start": 25.725,
+      "end": 26.95,
+      "confidence": 0.4159,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "cup",
+      "start": 26.95,
+      "end": 28.175,
+      "confidence": 0.5817,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 30.625,
+      "end": 37.975,
+      "confidence": 0.7952,
+      "frame_count": 13
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 30.625,
+      "end": 31.85,
+      "confidence": 0.5799,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "tv",
+      "start": 30.625,
+      "end": 31.85,
+      "confidence": 0.6011,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 33.0,
+      "end": 34.0,
+      "max_rms": 0.200701
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 33.075,
+      "end": 35.525,
+      "confidence": 0.4386,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 33.075,
+      "end": 34.3,
+      "confidence": 0.4032,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "bicycle",
+      "start": 34.3,
+      "end": 35.525,
+      "confidence": 0.4023,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "car",
+      "start": 34.3,
+      "end": 35.525,
+      "confidence": 0.3657,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 35.0,
+      "end": 36.0,
+      "max_rms": 0.201271
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 35.525,
+      "end": 36.75,
+      "confidence": 0.575,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 35.525,
+      "end": 36.75,
+      "confidence": 0.4883,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 37.975,
+      "end": 39.2,
+      "confidence": 0.361,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 40.18,
+      "end": 43.98,
+      "text": "Это отличный помощь к зебой. Это не какая-нибудь пластик вэлопадка,"
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 40.425,
+      "end": 41.65,
+      "confidence": 0.534,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "laptop",
+      "start": 41.65,
+      "end": 42.875,
+      "confidence": 0.8019,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "bed",
+      "start": 42.875,
+      "end": 45.325,
+      "confidence": 0.4184,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 43.98,
+      "end": 49.46,
+      "text": "которая сломается на первой лидышке. Засчёт тяги на незах и полного привода,"
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 44.1,
+      "end": 45.325,
+      "confidence": 0.3565,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 46.55,
+      "end": 53.9,
+      "confidence": 0.9191,
+      "frame_count": 6
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 49.46,
+      "end": 55.42,
+      "text": "он вгрызается в лёд и двигает мокрый снег. Ну, а летом снимаете подвал,"
+    },
+    {
+      "type": "object",
+      "label": "bird",
+      "start": 53.9,
+      "end": 55.125,
+      "confidence": 0.7655,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 55.125,
+      "end": 56.35,
+      "confidence": 0.7223,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 55.42,
+      "end": 58.42,
+      "text": "Деший типу, и вперед выгород."
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 56.35,
+      "end": 74.725,
+      "confidence": 0.792,
+      "frame_count": 37
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 57.575,
+      "end": 58.8,
+      "confidence": 0.5861,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 58.42,
+      "end": 62.42,
+      "text": "Трактор 0,15 и квадрат цикл."
+    },
+    {
+      "type": "object",
+      "label": "laptop",
+      "start": 60.025,
+      "end": 61.25,
+      "confidence": 0.554,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 62.42,
+      "end": 66.42,
+      "text": "Если их выбирать, чтобы вы взяли и почему."
+    },
+    {
+      "type": "object",
+      "label": "handbag",
+      "start": 64.925,
+      "end": 67.375,
+      "confidence": 0.4298,
+      "frame_count": 2
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 65.0,
+      "end": 66.0,
+      "max_rms": 0.200527
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 66.15,
+      "end": 67.375,
+      "confidence": 0.4005,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 66.42,
+      "end": 70.42,
+      "text": "А определенно квадрат цикл, потому что моих дробей,"
+    },
+    {
+      "type": "object",
+      "label": "tie",
+      "start": 68.6,
+      "end": 69.825,
+      "confidence": 0.3557,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 70.42,
+      "end": 74.42,
+      "text": "есть квадрат цикл и мы частенько его используем."
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 71.05,
+      "end": 74.725,
+      "confidence": 0.4456,
+      "frame_count": 3
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 74.42,
+      "end": 80.42,
+      "text": "Трактор, конкретно для меня, используется довольно таки редко или никогда."
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 74.725,
+      "end": 75.95,
+      "confidence": 0.5012,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 75.95,
+      "end": 78.4,
+      "confidence": 0.4466,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 77.175,
+      "end": 86.975,
+      "confidence": 0.7055,
+      "frame_count": 42
+    },
+    {
+      "type": "object",
+      "label": "suitcase",
+      "start": 77.175,
+      "end": 78.4,
+      "confidence": 0.5453,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 78.0,
+      "end": 79.0,
+      "max_rms": 0.220887
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 78.4,
+      "end": 80.85,
+      "confidence": 0.3813,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 80.42,
+      "end": 86.66,
+      "text": "Я бы, наверное, взял рацику, а вы, фермер 300, потому что его функционально"
+    },
+    {
+      "type": "object",
+      "label": "handbag",
+      "start": 84.525,
+      "end": 85.75,
+      "confidence": 0.4038,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 86.66,
+      "end": 91.22,
+      "text": "за меня будет более, как бы сказать, доступно, чем мини-трактор, потому что"
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 88.2,
+      "end": 89.425,
+      "confidence": 0.3884,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 89.425,
+      "end": 107.8,
+      "confidence": 0.7763,
+      "frame_count": 59
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 89.425,
+      "end": 91.875,
+      "confidence": 0.6132,
+      "frame_count": 4
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 91.22,
+      "end": 94.78,
+      "text": "у меня нет такого участка, которую я там должен обрабатывать либо"
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 94.78,
+      "end": 96.1,
+      "text": "путью, либо еще что-то."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 96.1,
+      "end": 100.94,
+      "text": "Трактор скоро зима у грузовой квадрат-цикл, можно ли его использовать"
+    },
+    {
+      "type": "object",
+      "label": "tie",
+      "start": 96.775,
+      "end": 99.225,
+      "confidence": 0.5637,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 99.225,
+      "end": 100.45,
+      "confidence": 0.3502,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 100.94,
+      "end": 102.62,
+      "text": "для личного развлечения?"
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 102.62,
+      "end": 103.62,
+      "text": "Конечно."
+    },
+    {
+      "type": "object",
+      "label": "laptop",
+      "start": 102.9,
+      "end": 104.125,
+      "confidence": 0.625,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "tv",
+      "start": 102.9,
+      "end": 104.125,
+      "confidence": 0.3714,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 103.62,
+      "end": 104.62,
+      "text": "Раз, два."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 104.62,
+      "end": 108.74,
+      "text": "Если он у грузовой, то на территории СНТ начных поселок"
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 107.8,
+      "end": 109.025,
+      "confidence": 0.6784,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 108.74,
+      "end": 113.74,
+      "text": "все можно с вечеринки забирать, но нужно и зарабатывать деньги, но я бы"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 109.025,
+      "end": 110.25,
+      "confidence": 0.4161,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 110.25,
+      "end": 113.925,
+      "confidence": 0.6126,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 111.475,
+      "end": 123.725,
+      "confidence": 0.6269,
+      "frame_count": 21
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 113.74,
+      "end": 119.26,
+      "text": "наверное взял себе квадрат-цикл, я смотрю здесь такая модель, что помимо"
+    },
+    {
+      "type": "object",
+      "label": "laptop",
+      "start": 115.15,
+      "end": 116.375,
+      "confidence": 0.3733,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 116.375,
+      "end": 117.6,
+      "confidence": 0.6207,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 117.6,
+      "end": 118.825,
+      "confidence": 0.6011,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 118.825,
+      "end": 120.05,
+      "confidence": 0.5485,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 119.26,
+      "end": 124.5,
+      "text": "прочего на нем как покататься такой грузы перевозить, здесь кому что,"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 122.0,
+      "end": 123.0,
+      "max_rms": 0.201002
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 124.5,
+      "end": 129.02,
+      "text": "в принципе, кому-то может быть дизин трактор бы понадобился, но мне внешнее"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 124.95,
+      "end": 132.3,
+      "confidence": 0.6579,
+      "frame_count": 6
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 124.95,
+      "end": 128.625,
+      "confidence": 0.6879,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 128.625,
+      "end": 131.075,
+      "confidence": 0.81,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 129.02,
+      "end": 135.46,
+      "text": "не знаю, как, ну ваша цептуально квадрат-цикл нравится, квадрат-цикл, это такая техника"
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 131.075,
+      "end": 135.975,
+      "confidence": 0.8124,
+      "frame_count": 4
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 135.46,
+      "end": 144.46,
+      "text": "своеобразное. На квадроциках хочется погонять, но и убийца там гораздо проще."
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 135.975,
+      "end": 150.675,
+      "confidence": 0.7213,
+      "frame_count": 77
+    },
+    {
+      "type": "object",
+      "label": "backpack",
+      "start": 135.975,
+      "end": 137.2,
+      "confidence": 0.3722,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "handbag",
+      "start": 137.2,
+      "end": 139.65,
+      "confidence": 0.3989,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 139.65,
+      "end": 140.875,
+      "confidence": 0.3536,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "laptop",
+      "start": 140.875,
+      "end": 142.1,
+      "confidence": 0.4345,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 144.46,
+      "end": 148.46,
+      "text": "А на тракторе, ну, больше функционала, наверное."
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 144.55,
+      "end": 145.775,
+      "confidence": 0.5618,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 148.46,
+      "end": 150.46,
+      "text": "Больше хозяйских."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 151.46,
+      "end": 155.46,
+      "text": "Ну а вот второй экспонат, который мы представляем на выставке Митекси."
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 151.9,
+      "end": 169.05,
+      "confidence": 0.8109,
+      "frame_count": 24
+    },
+    {
+      "type": "object",
+      "label": "car",
+      "start": 153.125,
+      "end": 154.35,
+      "confidence": 0.3675,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 155.46,
+      "end": 161.46,
+      "text": "Тезер, термер 300. Все привыкли, что квадроцикал, это просто покатушки."
+    },
+    {
+      "type": "object",
+      "label": "tie",
+      "start": 155.575,
+      "end": 156.8,
+      "confidence": 0.356,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 158.025,
+      "end": 160.475,
+      "confidence": 0.5911,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 161.46,
+      "end": 165.94,
+      "text": "Но здесь совсем другая концерция, полный при вот четыре на четыре."
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 161.7,
+      "end": 162.925,
+      "confidence": 0.4206,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "tie",
+      "start": 162.925,
+      "end": 166.6,
+      "confidence": 0.4329,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 165.375,
+      "end": 166.6,
+      "confidence": 0.3518,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "bus",
+      "start": 165.375,
+      "end": 166.6,
+      "confidence": 0.3842,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 165.94,
+      "end": 169.62,
+      "text": "Сама с вальной кузов, грузоподъемности до 500 килограмм."
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 167.825,
+      "end": 169.05,
+      "confidence": 0.3944,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 169.62,
+      "end": 172.82,
+      "text": "Это хороший помощник, как у себя на хозяйстве,"
+    },
+    {
+      "type": "object",
+      "label": "boat",
+      "start": 171.5,
+      "end": 172.725,
+      "confidence": 0.3566,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 172.725,
+      "end": 173.95,
+      "confidence": 0.4508,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 172.82,
+      "end": 175.3,
+      "text": "так и для того, чтобы заработать на нем."
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 173.95,
+      "end": 177.625,
+      "confidence": 0.6158,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 175.175,
+      "end": 227.85,
+      "confidence": 0.7158,
+      "frame_count": 150
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 175.3,
+      "end": 178.58,
+      "text": "На нем можно перевести, трава из леса,"
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 177.625,
+      "end": 182.525,
+      "confidence": 0.4191,
+      "frame_count": 4
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 178.58,
+      "end": 183.42,
+      "text": "рисок из карьера, вывалили кузов и поехали дальше по делам."
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 178.85,
+      "end": 182.525,
+      "confidence": 0.5231,
+      "frame_count": 5
+    },
+    {
+      "type": "object",
+      "label": "car",
+      "start": 178.85,
+      "end": 180.075,
+      "confidence": 0.5777,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 183.42,
+      "end": 187.86,
+      "text": "Расход топлива, минимальный, очень удобный в эксплуатации техника."
+    },
+    {
+      "type": "object",
+      "label": "tie",
+      "start": 184.975,
+      "end": 187.425,
+      "confidence": 0.5605,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 186.2,
+      "end": 187.425,
+      "confidence": 0.5483,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 186.2,
+      "end": 187.425,
+      "confidence": 0.6745,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 187.86,
+      "end": 195.46,
+      "text": "Следующий вопрос, если бы жена сказала, вот, ультиматум поставила, или я, или твой гараж."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 188.0,
+      "end": 189.0,
+      "max_rms": 0.205632
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 189.875,
+      "end": 191.1,
+      "confidence": 0.3525,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 191.0,
+      "end": 192.0,
+      "max_rms": 0.199184
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 193.55,
+      "end": 194.775,
+      "confidence": 0.3539,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 195.46,
+      "end": 199.82,
+      "text": "Вы бьё на чём на вокзал повезли? На трактор или на квадроцикле?"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 196.0,
+      "end": 199.0,
+      "max_rms": 0.229546
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 199.82,
+      "end": 206.62,
+      "text": "Ну, хорошо, трактор выбрал, значит, на тракторе. Гораж, это светлая."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 203.0,
+      "end": 204.0,
+      "max_rms": 0.204197
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 205.8,
+      "end": 207.025,
+      "confidence": 0.5049,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 206.62,
+      "end": 211.3,
+      "text": "Смотри, здесь я думаю, квадроцикл, бы я больше понравилась, я думаю, квадроцикле."
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 207.0,
+      "end": 208.0,
+      "max_rms": 0.212324
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 207.025,
+      "end": 210.7,
+      "confidence": 0.6014,
+      "frame_count": 4
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 211.3,
+      "end": 216.18,
+      "text": "На машине. На квадроцикле я ведь его выбрал. Придётся."
+    },
+    {
+      "type": "object",
+      "label": "tie",
+      "start": 214.375,
+      "end": 216.825,
+      "confidence": 0.5598,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 216.18,
+      "end": 218.94,
+      "text": "Вы здесь по работе или просто что-время прости?"
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 217.0,
+      "end": 218.0,
+      "max_rms": 0.225546
+    },
+    {
+      "type": "object",
+      "label": "bottle",
+      "start": 219.275,
+      "end": 220.5,
+      "confidence": 0.3554,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 219.275,
+      "end": 220.5,
+      "confidence": 0.394,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 219.78,
+      "end": 220.78,
+      "text": "Поработе."
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 220.5,
+      "end": 221.725,
+      "confidence": 0.4304,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 221.06,
+      "end": 223.26,
+      "text": "Поработе. Я здесь по работе."
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 221.725,
+      "end": 222.95,
+      "confidence": 0.5284,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "handbag",
+      "start": 221.725,
+      "end": 222.95,
+      "confidence": 0.4703,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 223.62,
+      "end": 225.38,
+      "text": "Так, просто время по работе проложу."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 225.9,
+      "end": 227.34,
+      "text": "Внутри видела формы линии."
+    },
+    {
+      "type": "object",
+      "label": "car",
+      "start": 227.85,
+      "end": 229.075,
+      "confidence": 0.4606,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 227.98,
+      "end": 229.06,
+      "text": "А вообще ничего нету."
+    },
+    {
+      "type": "object",
+      "label": "bicycle",
+      "start": 229.075,
+      "end": 230.3,
+      "confidence": 0.5252,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 229.62,
+      "end": 230.38,
+      "text": "Так, барабан."
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 230.3,
+      "end": 243.775,
+      "confidence": 0.6981,
+      "frame_count": 60
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 231.0,
+      "end": 232.0,
+      "max_rms": 0.210788
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 233.46,
+      "end": 234.42,
+      "text": "Ладно, идем."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 234.54,
+      "end": 235.62,
+      "text": "Но это зэр лучше."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 235.9,
+      "end": 240.14,
+      "text": "Вот такую технику мы привезли в этом году на метеке с 2026."
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 236.425,
+      "end": 240.1,
+      "confidence": 0.572,
+      "frame_count": 3
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 240.1,
+      "end": 241.325,
+      "confidence": 0.4122,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 240.22,
+      "end": 243.5,
+      "text": "Но это только мало часть того, что производится на нашем заводе."
+    },
+    {
+      "type": "object",
+      "label": "suitcase",
+      "start": 242.55,
+      "end": 243.775,
+      "confidence": 0.6411,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 243.5,
+      "end": 249.18,
+      "text": "Экскаватами спецтехника, квадроциклы, мотоциклы и трактора вы можете подробно"
+    },
+    {
+      "type": "object",
+      "label": "train",
+      "start": 245.0,
+      "end": 246.225,
+      "confidence": 0.7155,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 246.225,
+      "end": 257.25,
+      "confidence": 0.8581,
+      "frame_count": 9
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 246.225,
+      "end": 247.45,
+      "confidence": 0.7854,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 247.45,
+      "end": 248.675,
+      "confidence": 0.8848,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "truck",
+      "start": 248.675,
+      "end": 251.125,
+      "confidence": 0.4982,
+      "frame_count": 2
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 249.18,
+      "end": 252.58,
+      "text": "знакомить на нашем сайт завод-русич.ru"
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 252.58,
+      "end": 257.34,
+      "text": "Там представлен весь каталог техники с ценами и подробной характеристикой."
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 257.34,
+      "end": 264.42,
+      "text": "А в комментариях пишите, чтобы вы взяли себе грузовой квадроцикл или дизельный трактор с отвалом."
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 259.7,
+      "end": 270.725,
+      "confidence": 0.7532,
+      "frame_count": 27
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 260.925,
+      "end": 262.15,
+      "confidence": 0.4279,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 262.15,
+      "end": 263.375,
+      "confidence": 0.4644,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "tv",
+      "start": 263.375,
+      "end": 264.6,
+      "confidence": 0.3835,
+      "frame_count": 1
+    },
+    {
+      "type": "speech",
+      "label": "Речь",
+      "start": 264.42,
+      "end": 266.66,
+      "text": "Ставьте лайк и подписывайтесь!"
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 264.6,
+      "end": 265.825,
+      "confidence": 0.362,
+      "frame_count": 1
+    },
+    {
+      "type": "volume",
+      "label": "Громкий звук",
+      "start": 267.0,
+      "end": 288.0,
+      "max_rms": 0.283118
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 267.05,
+      "end": 268.275,
+      "confidence": 0.56,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 268.275,
+      "end": 269.5,
+      "confidence": 0.6846,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 271.95,
+      "end": 273.175,
+      "confidence": 0.8408,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 274.4,
+      "end": 275.625,
+      "confidence": 0.7316,
+      "frame_count": 6
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 274.4,
+      "end": 275.625,
+      "confidence": 0.5992,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 274.4,
+      "end": 275.625,
+      "confidence": 0.5836,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "dining table",
+      "start": 274.4,
+      "end": 275.625,
+      "confidence": 0.5777,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 276.85,
+      "end": 281.75,
+      "confidence": 0.7425,
+      "frame_count": 11
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 276.85,
+      "end": 278.075,
+      "confidence": 0.8172,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "cell phone",
+      "start": 276.85,
+      "end": 278.075,
+      "confidence": 0.3783,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 279.3,
+      "end": 280.525,
+      "confidence": 0.8418,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "handbag",
+      "start": 280.525,
+      "end": 281.75,
+      "confidence": 0.3642,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 282.975,
+      "end": 284.2,
+      "confidence": 0.7457,
+      "frame_count": 5
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 282.975,
+      "end": 284.2,
+      "confidence": 0.5383,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "backpack",
+      "start": 282.975,
+      "end": 284.2,
+      "confidence": 0.4115,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "motorcycle",
+      "start": 284.2,
+      "end": 285.425,
+      "confidence": 0.7506,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 285.425,
+      "end": 286.65,
+      "confidence": 0.6036,
+      "frame_count": 1
+    },
+    {
+      "type": "object",
+      "label": "car",
+      "start": 285.425,
+      "end": 287.875,
+      "confidence": 0.7116,
+      "frame_count": 2
+    },
+    {
+      "type": "object",
+      "label": "clock",
+      "start": 286.65,
+      "end": 287.875,
+      "confidence": 0.4521,
+      "frame_count": 1
+    }
+  ]
+}
