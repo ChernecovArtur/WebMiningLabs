@@ -1,0 +1,1889 @@
+[
+  {
+    "user_id": 18,
+    "history_count": 376,
+    "relevant_in_test": [
+      {
+        "movieId": 6807,
+        "title": "Monty Python's The Meaning of Life (1983)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 5464,
+        "title": "Road to Perdition (2002)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1892,
+        "title": "Perfect Murder, A (1998)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 55765,
+        "title": "American Gangster (2007)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 1617,
+        "title": "L.A. Confidential (1997)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 84392,
+        "title": "Lincoln Lawyer, The (2011)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 6,
+        "title": "Heat (1995)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1221,
+        "title": "Godfather: Part II, The (1974)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 745,
+        "title": "Wallace & Gromit: A Close Shave (1995)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 16,
+        "title": "Casino (1995)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 431,
+        "title": "Carlito's Way (1993)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 80489,
+        "title": "Town, The (2010)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 81788,
+        "title": "Next Three Days, The (2010)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 56757,
+        "title": "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 6333,
+        "title": "X2: X-Men United (2003)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 3793,
+        "title": "X-Men (2000)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1729,
+        "title": "Jackie Brown (1997)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 122886,
+        "title": "Star Wars: Episode VII - The Force Awakens (2015)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 114066,
+        "title": "20,000 Days on Earth (2014)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 8958,
+        "title": "Ray (2004)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 86628,
+        "title": "Kill the Irishman (2011)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 122924,
+        "title": "X-Men: Apocalypse (2016)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 55118,
+        "title": "Eastern Promises (2007)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 37733,
+        "title": "History of Violence, A (2005)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 65596,
+        "title": "Mesrine: Killer Instinct (L'instinct de mort) (2008)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 85354,
+        "title": "Mesrine: Public Enemy #1 (L'ennemi public n°1) (2008)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 99813,
+        "title": "Batman: The Dark Knight Returns, Part 2 (2013)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 98124,
+        "title": "Batman: The Dark Knight Returns, Part 1 (2012)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 117176,
+        "title": "The Theory of Everything (2014)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1086,
+        "title": "Dial M for Murder (1954)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 2324,
+        "title": "Life Is Beautiful (La Vita è bella) (1997)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 68159,
+        "title": "State of Play (2009)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 3462,
+        "title": "Modern Times (1936)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1466,
+        "title": "Donnie Brasco (1997)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 4239,
+        "title": "Blow (2001)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 55276,
+        "title": "Michael Clayton (2007)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 74948,
+        "title": "Harry Brown (2009)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 141688,
+        "title": "Legend (2015)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 106839,
+        "title": "Mandela: Long Walk to Freedom (2013)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 103772,
+        "title": "Wolverine, The (2013)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 55290,
+        "title": "Gone Baby Gone (2007)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 148626,
+        "title": "Big Short, The (2015)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1227,
+        "title": "Once Upon a Time in America (1984)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 157108,
+        "title": "Texas - Doc Snyder hält die Welt in Atem (1993)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 157110,
+        "title": "00 Schneider - Jagd auf Nihil Baxter (1994)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 44555,
+        "title": "Lives of Others, The (Das leben der Anderen) (2006)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 71108,
+        "title": "White Ribbon, The (Das weiße Band) (2009)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 142488,
+        "title": "Spotlight (2015)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 4383,
+        "title": "Crimson Rivers, The (Rivières pourpres, Les) (2000)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 7843,
+        "title": "Lammbock (2001)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 168252,
+        "title": "Logan (2017)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 158238,
+        "title": "The Nice Guys (2016)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 96655,
+        "title": "Robot & Frank (2012)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 161582,
+        "title": "Hell or High Water (2016)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 64197,
+        "title": "Hunger (2008)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 6300,
+        "title": "Flickering Lights (Blinkende lygter) (2000)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 166635,
+        "title": "Passengers (2016)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1095,
+        "title": "Glengarry Glen Ross (1992)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1245,
+        "title": "Miller's Crossing (1990)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 4007,
+        "title": "Wall Street (1987)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 3896,
+        "title": "Way of the Gun, The (2000)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 555,
+        "title": "True Romance (1993)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 171023,
+        "title": "The Hero (2017)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 122918,
+        "title": "Guardians of the Galaxy 2 (2017)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 90600,
+        "title": "Headhunters (Hodejegerne) (2011)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 180777,
+        "title": "Die Frauen von Ravensbrück (2005)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 102903,
+        "title": "Now You See Me (2013)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 96488,
+        "title": "Searching for Sugar Man (2012)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 5120,
+        "title": "Sleuth (1972)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 913,
+        "title": "Maltese Falcon, The (1941)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1193,
+        "title": "One Flew Over the Cuckoo's Nest (1975)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 96432,
+        "title": "Lawless (2012)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 51357,
+        "title": "Citizen X (1995)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 27878,
+        "title": "Born into Brothels (2004)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 185135,
+        "title": "Sherlock - A Study in Pink (2010)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 177593,
+        "title": "Three Billboards Outside Ebbing, Missouri (2017)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 6787,
+        "title": "All the President's Men (1976)",
+        "rating": 4.0
+      }
+    ],
+    "models": {
+      "popular": [
+        {
+          "movieId": 150,
+          "title": "Apollo 13 (1995)",
+          "genres": "Adventure|Drama|IMAX",
+          "score": 184.0,
+          "hit": false
+        },
+        {
+          "movieId": 2858,
+          "title": "American Beauty (1999)",
+          "genres": "Drama|Romance",
+          "score": 176.0,
+          "hit": false
+        },
+        {
+          "movieId": 592,
+          "title": "Batman (1989)",
+          "genres": "Action|Crime|Thriller",
+          "score": 175.0,
+          "hit": false
+        },
+        {
+          "movieId": 457,
+          "title": "Fugitive, The (1993)",
+          "genres": "Thriller",
+          "score": 173.0,
+          "hit": false
+        },
+        {
+          "movieId": 153,
+          "title": "Batman Forever (1995)",
+          "genres": "Action|Adventure|Comedy|Crime",
+          "score": 130.0,
+          "hit": false
+        },
+        {
+          "movieId": 316,
+          "title": "Stargate (1994)",
+          "genres": "Action|Adventure|Sci-Fi",
+          "score": 130.0,
+          "hit": false
+        },
+        {
+          "movieId": 597,
+          "title": "Pretty Woman (1990)",
+          "genres": "Comedy|Romance",
+          "score": 125.0,
+          "hit": false
+        },
+        {
+          "movieId": 10,
+          "title": "GoldenEye (1995)",
+          "genres": "Action|Adventure|Thriller",
+          "score": 125.0,
+          "hit": false
+        },
+        {
+          "movieId": 2628,
+          "title": "Star Wars: Episode I - The Phantom Menace (1999)",
+          "genres": "Action|Adventure|Sci-Fi",
+          "score": 123.0,
+          "hit": false
+        },
+        {
+          "movieId": 736,
+          "title": "Twister (1996)",
+          "genres": "Action|Adventure|Romance|Thriller",
+          "score": 118.0,
+          "hit": false
+        }
+      ],
+      "content": [
+        {
+          "movieId": 67197,
+          "title": "Knowing (2009)",
+          "genres": "Action|Drama|Mystery|Sci-Fi|Thriller",
+          "score": 0.603869,
+          "hit": false
+        },
+        {
+          "movieId": 58025,
+          "title": "Jumper (2008)",
+          "genres": "Action|Adventure|Drama|Sci-Fi|Thriller",
+          "score": 0.598209,
+          "hit": false
+        },
+        {
+          "movieId": 8860,
+          "title": "Cellular (2004)",
+          "genres": "Action|Crime|Drama|Mystery|Thriller",
+          "score": 0.596652,
+          "hit": false
+        },
+        {
+          "movieId": 5628,
+          "title": "Wasabi (2001)",
+          "genres": "Action|Comedy|Crime|Drama|Thriller",
+          "score": 0.589175,
+          "hit": false
+        },
+        {
+          "movieId": 120637,
+          "title": "Blackhat (2015)",
+          "genres": "Action|Crime|Drama|Mystery|Thriller",
+          "score": 0.580772,
+          "hit": false
+        },
+        {
+          "movieId": 2058,
+          "title": "Negotiator, The (1998)",
+          "genres": "Action|Crime|Drama|Mystery|Thriller",
+          "score": 0.576189,
+          "hit": false
+        },
+        {
+          "movieId": 292,
+          "title": "Outbreak (1995)",
+          "genres": "Action|Drama|Sci-Fi|Thriller",
+          "score": 0.56309,
+          "hit": false
+        },
+        {
+          "movieId": 41997,
+          "title": "Munich (2005)",
+          "genres": "Action|Crime|Drama|Thriller",
+          "score": 0.559592,
+          "hit": false
+        },
+        {
+          "movieId": 32029,
+          "title": "Hostage (2005)",
+          "genres": "Action|Crime|Drama|Thriller",
+          "score": 0.559592,
+          "hit": false
+        },
+        {
+          "movieId": 170,
+          "title": "Hackers (1995)",
+          "genres": "Action|Adventure|Crime|Thriller",
+          "score": 0.558087,
+          "hit": false
+        }
+      ],
+      "svd": [
+        {
+          "movieId": 1197,
+          "title": "Princess Bride, The (1987)",
+          "genres": "Action|Adventure|Comedy|Fantasy|Romance",
+          "score": 4.472388,
+          "hit": false
+        },
+        {
+          "movieId": 750,
+          "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
+          "genres": "Comedy|War",
+          "score": 4.420641,
+          "hit": false
+        },
+        {
+          "movieId": 1204,
+          "title": "Lawrence of Arabia (1962)",
+          "genres": "Adventure|Drama|War",
+          "score": 4.393922,
+          "hit": false
+        },
+        {
+          "movieId": 1193,
+          "title": "One Flew Over the Cuckoo's Nest (1975)",
+          "genres": "Drama",
+          "score": 4.372071,
+          "hit": true
+        },
+        {
+          "movieId": 5618,
+          "title": "Spirited Away (Sen to Chihiro no kamikakushi) (2001)",
+          "genres": "Adventure|Animation|Fantasy",
+          "score": 4.365812,
+          "hit": false
+        },
+        {
+          "movieId": 1225,
+          "title": "Amadeus (1984)",
+          "genres": "Drama",
+          "score": 4.335478,
+          "hit": false
+        },
+        {
+          "movieId": 1221,
+          "title": "Godfather: Part II, The (1974)",
+          "genres": "Crime|Drama",
+          "score": 4.33025,
+          "hit": true
+        },
+        {
+          "movieId": 1228,
+          "title": "Raging Bull (1980)",
+          "genres": "Drama",
+          "score": 4.324837,
+          "hit": false
+        },
+        {
+          "movieId": 1104,
+          "title": "Streetcar Named Desire, A (1951)",
+          "genres": "Drama",
+          "score": 4.315121,
+          "hit": false
+        },
+        {
+          "movieId": 3451,
+          "title": "Guess Who's Coming to Dinner (1967)",
+          "genres": "Drama",
+          "score": 4.303787,
+          "hit": false
+        }
+      ],
+      "als": [
+        {
+          "movieId": 1193,
+          "title": "One Flew Over the Cuckoo's Nest (1975)",
+          "genres": "Drama",
+          "score": 1.018721,
+          "hit": true
+        },
+        {
+          "movieId": 953,
+          "title": "It's a Wonderful Life (1946)",
+          "genres": "Children|Drama|Fantasy|Romance",
+          "score": 0.974874,
+          "hit": false
+        },
+        {
+          "movieId": 745,
+          "title": "Wallace & Gromit: A Close Shave (1995)",
+          "genres": "Animation|Children|Comedy",
+          "score": 0.972645,
+          "hit": true
+        },
+        {
+          "movieId": 555,
+          "title": "True Romance (1993)",
+          "genres": "Crime|Thriller",
+          "score": 0.925728,
+          "hit": true
+        },
+        {
+          "movieId": 2858,
+          "title": "American Beauty (1999)",
+          "genres": "Drama|Romance",
+          "score": 0.896406,
+          "hit": false
+        },
+        {
+          "movieId": 150,
+          "title": "Apollo 13 (1995)",
+          "genres": "Adventure|Drama|IMAX",
+          "score": 0.831217,
+          "hit": false
+        },
+        {
+          "movieId": 6807,
+          "title": "Monty Python's The Meaning of Life (1983)",
+          "genres": "Comedy",
+          "score": 0.821039,
+          "hit": true
+        },
+        {
+          "movieId": 1625,
+          "title": "Game, The (1997)",
+          "genres": "Drama|Mystery|Thriller",
+          "score": 0.813005,
+          "hit": false
+        },
+        {
+          "movieId": 80463,
+          "title": "Social Network, The (2010)",
+          "genres": "Drama",
+          "score": 0.801403,
+          "hit": false
+        },
+        {
+          "movieId": 2985,
+          "title": "RoboCop (1987)",
+          "genres": "Action|Crime|Drama|Sci-Fi|Thriller",
+          "score": 0.795589,
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 561,
+    "history_count": 0,
+    "relevant_in_test": [
+      {
+        "movieId": 1198,
+        "title": "Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 1196,
+        "title": "Star Wars: Episode V - The Empire Strikes Back (1980)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 260,
+        "title": "Star Wars: Episode IV - A New Hope (1977)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 318,
+        "title": "Shawshank Redemption, The (1994)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 7153,
+        "title": "Lord of the Rings: The Return of the King, The (2003)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 1291,
+        "title": "Indiana Jones and the Last Crusade (1989)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 1197,
+        "title": "Princess Bride, The (1987)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 1210,
+        "title": "Star Wars: Episode VI - Return of the Jedi (1983)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 97913,
+        "title": "Wreck-It Ralph (2012)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1270,
+        "title": "Back to the Future (1985)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 4993,
+        "title": "Lord of the Rings: The Fellowship of the Ring, The (2001)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 5952,
+        "title": "Lord of the Rings: The Two Towers, The (2002)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 2571,
+        "title": "Matrix, The (1999)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 58559,
+        "title": "Dark Knight, The (2008)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 1036,
+        "title": "Die Hard (1988)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 1200,
+        "title": "Aliens (1986)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 589,
+        "title": "Terminator 2: Judgment Day (1991)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1240,
+        "title": "Terminator, The (1984)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 68954,
+        "title": "Up (2009)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 112852,
+        "title": "Guardians of the Galaxy (2014)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 50,
+        "title": "Usual Suspects, The (1995)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 122886,
+        "title": "Star Wars: Episode VII - The Force Awakens (2015)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 60069,
+        "title": "WALL·E (2008)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 593,
+        "title": "Silence of the Lambs, The (1991)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 110,
+        "title": "Braveheart (1995)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 68358,
+        "title": "Star Trek (2009)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 33794,
+        "title": "Batman Begins (2005)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 2268,
+        "title": "Few Good Men, A (1992)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 7438,
+        "title": "Kill Bill: Vol. 2 (2004)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1222,
+        "title": "Full Metal Jacket (1987)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 5418,
+        "title": "Bourne Identity, The (2002)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 1387,
+        "title": "Jaws (1975)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 2716,
+        "title": "Ghostbusters (a.k.a. Ghost Busters) (1984)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 4886,
+        "title": "Monsters, Inc. (2001)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1097,
+        "title": "E.T. the Extra-Terrestrial (1982)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 63082,
+        "title": "Slumdog Millionaire (2008)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1246,
+        "title": "Dead Poets Society (1989)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1374,
+        "title": "Star Trek II: The Wrath of Khan (1982)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 3527,
+        "title": "Predator (1987)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 54286,
+        "title": "Bourne Ultimatum, The (2007)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 91529,
+        "title": "Dark Knight Rises, The (2012)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 364,
+        "title": "Lion King, The (1994)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 4085,
+        "title": "Beverly Hills Cop (1984)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 48516,
+        "title": "Departed, The (2006)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 2797,
+        "title": "Big (1988)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 89745,
+        "title": "Avengers, The (2012)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 2985,
+        "title": "RoboCop (1987)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 592,
+        "title": "Batman (1989)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 78499,
+        "title": "Toy Story 3 (2010)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 2420,
+        "title": "Karate Kid, The (1984)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 7143,
+        "title": "Last Samurai, The (2003)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1732,
+        "title": "Big Lebowski, The (1998)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 1587,
+        "title": "Conan the Barbarian (1982)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 51255,
+        "title": "Hot Fuzz (2007)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 71535,
+        "title": "Zombieland (2009)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 596,
+        "title": "Pinocchio (1940)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 780,
+        "title": "Independence Day (a.k.a. ID4) (1996)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 122882,
+        "title": "Mad Max: Fury Road (2015)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 88129,
+        "title": "Drive (2011)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 2402,
+        "title": "Rambo: First Blood Part II (1985)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 88744,
+        "title": "Rise of the Planet of the Apes (2011)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 7458,
+        "title": "Troy (2004)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 111364,
+        "title": "Godzilla (2014)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1214,
+        "title": "Alien (1979)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 2028,
+        "title": "Saving Private Ryan (1998)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 1259,
+        "title": "Stand by Me (1986)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 2288,
+        "title": "Thing, The (1982)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 1258,
+        "title": "Shining, The (1980)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 47,
+        "title": "Seven (a.k.a. Se7en) (1995)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 3471,
+        "title": "Close Encounters of the Third Kind (1977)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 2291,
+        "title": "Edward Scissorhands (1990)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1073,
+        "title": "Willy Wonka & the Chocolate Factory (1971)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 1213,
+        "title": "Goodfellas (1990)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1265,
+        "title": "Groundhog Day (1993)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 2791,
+        "title": "Airplane! (1980)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 2005,
+        "title": "Goonies, The (1985)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 1968,
+        "title": "Breakfast Club, The (1985)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 2762,
+        "title": "Sixth Sense, The (1999)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 3578,
+        "title": "Gladiator (2000)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 3703,
+        "title": "Road Warrior, The (Mad Max 2) (1981)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 2959,
+        "title": "Fight Club (1999)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 2403,
+        "title": "First Blood (Rambo: First Blood) (1982)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 457,
+        "title": "Fugitive, The (1993)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 3740,
+        "title": "Big Trouble in Little China (1986)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 1704,
+        "title": "Good Will Hunting (1997)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 2194,
+        "title": "Untouchables, The (1987)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 296,
+        "title": "Pulp Fiction (1994)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 4011,
+        "title": "Snatch (2000)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 1275,
+        "title": "Highlander (1986)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 480,
+        "title": "Jurassic Park (1993)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 2115,
+        "title": "Indiana Jones and the Temple of Doom (1984)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 2174,
+        "title": "Beetlejuice (1988)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 6502,
+        "title": "28 Days Later (2002)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 3033,
+        "title": "Spaceballs (1987)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 61024,
+        "title": "Pineapple Express (2008)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1663,
+        "title": "Stripes (1981)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1376,
+        "title": "Star Trek IV: The Voyage Home (1986)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 3868,
+        "title": "Naked Gun: From the Files of Police Squad!, The (1988)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 2476,
+        "title": "Heartbreak Ridge (1986)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 4571,
+        "title": "Bill & Ted's Excellent Adventure (1989)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 7387,
+        "title": "Dawn of the Dead (1978)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 6874,
+        "title": "Kill Bill: Vol. 1 (2003)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 1321,
+        "title": "American Werewolf in London, An (1981)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 34405,
+        "title": "Serenity (2005)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1982,
+        "title": "Halloween (1978)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1302,
+        "title": "Field of Dreams (1989)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 2109,
+        "title": "Jerk, The (1979)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 2641,
+        "title": "Superman II (1980)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 5541,
+        "title": "Hot Shots! (1991)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 8874,
+        "title": "Shaun of the Dead (2004)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 2478,
+        "title": "¡Three Amigos! (1986)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 6,
+        "title": "Heat (1995)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 3087,
+        "title": "Scrooged (1988)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 4679,
+        "title": "Uncle Buck (1989)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 80463,
+        "title": "Social Network, The (2010)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 3210,
+        "title": "Fast Times at Ridgemont High (1982)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 3275,
+        "title": "Boondock Saints, The (2000)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 4878,
+        "title": "Donnie Darko (2001)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 8665,
+        "title": "Bourne Supremacy, The (2004)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1372,
+        "title": "Star Trek VI: The Undiscovered Country (1991)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 4979,
+        "title": "Royal Tenenbaums, The (2001)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 3317,
+        "title": "Wonder Boys (2000)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 2395,
+        "title": "Rushmore (1998)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1394,
+        "title": "Raising Arizona (1987)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1408,
+        "title": "Last of the Mohicans, The (1992)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 6947,
+        "title": "Master and Commander: The Far Side of the World (2003)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 2,
+        "title": "Jumanji (1995)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 3994,
+        "title": "Unbreakable (2000)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 138036,
+        "title": "The Man from U.N.C.L.E. (2015)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 527,
+        "title": "Schindler's List (1993)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 356,
+        "title": "Forrest Gump (1994)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 924,
+        "title": "2001: A Space Odyssey (1968)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1954,
+        "title": "Rocky (1976)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 1250,
+        "title": "Bridge on the River Kwai, The (1957)",
+        "rating": 5.0
+      },
+      {
+        "movieId": 4027,
+        "title": "O Brother, Where Art Thou? (2000)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 4641,
+        "title": "Ghost World (2001)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 2918,
+        "title": "Ferris Bueller's Day Off (1986)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 293,
+        "title": "Léon: The Professional (a.k.a. The Professional) (Léon) (1994)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 923,
+        "title": "Citizen Kane (1941)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1,
+        "title": "Toy Story (1995)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 5500,
+        "title": "Top Secret! (1984)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 2423,
+        "title": "Christmas Vacation (National Lampoon's Christmas Vacation) (1989)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 2529,
+        "title": "Planet of the Apes (1968)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 3809,
+        "title": "What About Bob? (1991)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 2413,
+        "title": "Clue (1985)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 3552,
+        "title": "Caddyshack (1980)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1129,
+        "title": "Escape from New York (1981)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 2640,
+        "title": "Superman (1978)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 4128,
+        "title": "Lost Boys, The (1987)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 922,
+        "title": "Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 2502,
+        "title": "Office Space (1999)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 1967,
+        "title": "Labyrinth (1986)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 913,
+        "title": "Maltese Falcon, The (1941)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 1252,
+        "title": "Chinatown (1974)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 1230,
+        "title": "Annie Hall (1977)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 3702,
+        "title": "Mad Max (1979)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 4262,
+        "title": "Scarface (1983)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 2804,
+        "title": "Christmas Story, A (1983)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 1263,
+        "title": "Deer Hunter, The (1978)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 6539,
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 3441,
+        "title": "Red Dawn (1984)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 166528,
+        "title": "Rogue One: A Star Wars Story (2016)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 2409,
+        "title": "Rocky II (1979)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 3105,
+        "title": "Awakenings (1990)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1282,
+        "title": "Fantasia (1940)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1257,
+        "title": "Better Off Dead... (1985)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 4623,
+        "title": "Major League (1989)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 107406,
+        "title": "Snowpiercer (2013)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 38061,
+        "title": "Kiss Kiss Bang Bang (2005)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 1378,
+        "title": "Young Guns (1988)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 3444,
+        "title": "Bloodsport (1988)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 353,
+        "title": "Crow, The (1994)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 4776,
+        "title": "Training Day (2001)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 96737,
+        "title": "Dredd (2012)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 73017,
+        "title": "Sherlock Holmes (2009)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 91542,
+        "title": "Sherlock Holmes: A Game of Shadows (2011)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 2072,
+        "title": "'burbs, The (1989)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 3255,
+        "title": "League of Their Own, A (1992)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 86332,
+        "title": "Thor (2011)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 3753,
+        "title": "Patriot, The (2000)",
+        "rating": 4.5
+      },
+      {
+        "movieId": 5152,
+        "title": "We Were Soldiers (2002)",
+        "rating": 4.0
+      },
+      {
+        "movieId": 316,
+        "title": "Stargate (1994)",
+        "rating": 4.5
+      }
+    ],
+    "models": {
+      "popular": [
+        {
+          "movieId": 356,
+          "title": "Forrest Gump (1994)",
+          "genres": "Comedy|Drama|Romance|War",
+          "score": 267.0,
+          "hit": true
+        },
+        {
+          "movieId": 296,
+          "title": "Pulp Fiction (1994)",
+          "genres": "Comedy|Crime|Drama|Thriller",
+          "score": 264.0,
+          "hit": true
+        },
+        {
+          "movieId": 318,
+          "title": "Shawshank Redemption, The (1994)",
+          "genres": "Crime|Drama",
+          "score": 256.0,
+          "hit": true
+        },
+        {
+          "movieId": 593,
+          "title": "Silence of the Lambs, The (1991)",
+          "genres": "Crime|Horror|Thriller",
+          "score": 235.0,
+          "hit": true
+        },
+        {
+          "movieId": 2571,
+          "title": "Matrix, The (1999)",
+          "genres": "Action|Sci-Fi|Thriller",
+          "score": 219.0,
+          "hit": true
+        },
+        {
+          "movieId": 480,
+          "title": "Jurassic Park (1993)",
+          "genres": "Action|Adventure|Sci-Fi|Thriller",
+          "score": 218.0,
+          "hit": true
+        },
+        {
+          "movieId": 110,
+          "title": "Braveheart (1995)",
+          "genres": "Action|Drama|War",
+          "score": 212.0,
+          "hit": true
+        },
+        {
+          "movieId": 260,
+          "title": "Star Wars: Episode IV - A New Hope (1977)",
+          "genres": "Action|Adventure|Sci-Fi",
+          "score": 206.0,
+          "hit": true
+        },
+        {
+          "movieId": 589,
+          "title": "Terminator 2: Judgment Day (1991)",
+          "genres": "Action|Sci-Fi",
+          "score": 200.0,
+          "hit": true
+        },
+        {
+          "movieId": 527,
+          "title": "Schindler's List (1993)",
+          "genres": "Drama|War",
+          "score": 188.0,
+          "hit": true
+        }
+      ],
+      "content": [
+        {
+          "movieId": 356,
+          "title": "Forrest Gump (1994)",
+          "genres": "Comedy|Drama|Romance|War",
+          "score": 267.0,
+          "hit": true
+        },
+        {
+          "movieId": 296,
+          "title": "Pulp Fiction (1994)",
+          "genres": "Comedy|Crime|Drama|Thriller",
+          "score": 264.0,
+          "hit": true
+        },
+        {
+          "movieId": 318,
+          "title": "Shawshank Redemption, The (1994)",
+          "genres": "Crime|Drama",
+          "score": 256.0,
+          "hit": true
+        },
+        {
+          "movieId": 593,
+          "title": "Silence of the Lambs, The (1991)",
+          "genres": "Crime|Horror|Thriller",
+          "score": 235.0,
+          "hit": true
+        },
+        {
+          "movieId": 2571,
+          "title": "Matrix, The (1999)",
+          "genres": "Action|Sci-Fi|Thriller",
+          "score": 219.0,
+          "hit": true
+        },
+        {
+          "movieId": 480,
+          "title": "Jurassic Park (1993)",
+          "genres": "Action|Adventure|Sci-Fi|Thriller",
+          "score": 218.0,
+          "hit": true
+        },
+        {
+          "movieId": 110,
+          "title": "Braveheart (1995)",
+          "genres": "Action|Drama|War",
+          "score": 212.0,
+          "hit": true
+        },
+        {
+          "movieId": 260,
+          "title": "Star Wars: Episode IV - A New Hope (1977)",
+          "genres": "Action|Adventure|Sci-Fi",
+          "score": 206.0,
+          "hit": true
+        },
+        {
+          "movieId": 589,
+          "title": "Terminator 2: Judgment Day (1991)",
+          "genres": "Action|Sci-Fi",
+          "score": 200.0,
+          "hit": true
+        },
+        {
+          "movieId": 527,
+          "title": "Schindler's List (1993)",
+          "genres": "Drama|War",
+          "score": 188.0,
+          "hit": true
+        }
+      ],
+      "svd": [
+        {
+          "movieId": 356,
+          "title": "Forrest Gump (1994)",
+          "genres": "Comedy|Drama|Romance|War",
+          "score": 267.0,
+          "hit": true
+        },
+        {
+          "movieId": 296,
+          "title": "Pulp Fiction (1994)",
+          "genres": "Comedy|Crime|Drama|Thriller",
+          "score": 264.0,
+          "hit": true
+        },
+        {
+          "movieId": 318,
+          "title": "Shawshank Redemption, The (1994)",
+          "genres": "Crime|Drama",
+          "score": 256.0,
+          "hit": true
+        },
+        {
+          "movieId": 593,
+          "title": "Silence of the Lambs, The (1991)",
+          "genres": "Crime|Horror|Thriller",
+          "score": 235.0,
+          "hit": true
+        },
+        {
+          "movieId": 2571,
+          "title": "Matrix, The (1999)",
+          "genres": "Action|Sci-Fi|Thriller",
+          "score": 219.0,
+          "hit": true
+        },
+        {
+          "movieId": 480,
+          "title": "Jurassic Park (1993)",
+          "genres": "Action|Adventure|Sci-Fi|Thriller",
+          "score": 218.0,
+          "hit": true
+        },
+        {
+          "movieId": 110,
+          "title": "Braveheart (1995)",
+          "genres": "Action|Drama|War",
+          "score": 212.0,
+          "hit": true
+        },
+        {
+          "movieId": 260,
+          "title": "Star Wars: Episode IV - A New Hope (1977)",
+          "genres": "Action|Adventure|Sci-Fi",
+          "score": 206.0,
+          "hit": true
+        },
+        {
+          "movieId": 589,
+          "title": "Terminator 2: Judgment Day (1991)",
+          "genres": "Action|Sci-Fi",
+          "score": 200.0,
+          "hit": true
+        },
+        {
+          "movieId": 527,
+          "title": "Schindler's List (1993)",
+          "genres": "Drama|War",
+          "score": 188.0,
+          "hit": true
+        }
+      ],
+      "als": [
+        {
+          "movieId": 356,
+          "title": "Forrest Gump (1994)",
+          "genres": "Comedy|Drama|Romance|War",
+          "score": 267.0,
+          "hit": true
+        },
+        {
+          "movieId": 296,
+          "title": "Pulp Fiction (1994)",
+          "genres": "Comedy|Crime|Drama|Thriller",
+          "score": 264.0,
+          "hit": true
+        },
+        {
+          "movieId": 318,
+          "title": "Shawshank Redemption, The (1994)",
+          "genres": "Crime|Drama",
+          "score": 256.0,
+          "hit": true
+        },
+        {
+          "movieId": 593,
+          "title": "Silence of the Lambs, The (1991)",
+          "genres": "Crime|Horror|Thriller",
+          "score": 235.0,
+          "hit": true
+        },
+        {
+          "movieId": 2571,
+          "title": "Matrix, The (1999)",
+          "genres": "Action|Sci-Fi|Thriller",
+          "score": 219.0,
+          "hit": true
+        },
+        {
+          "movieId": 480,
+          "title": "Jurassic Park (1993)",
+          "genres": "Action|Adventure|Sci-Fi|Thriller",
+          "score": 218.0,
+          "hit": true
+        },
+        {
+          "movieId": 110,
+          "title": "Braveheart (1995)",
+          "genres": "Action|Drama|War",
+          "score": 212.0,
+          "hit": true
+        },
+        {
+          "movieId": 260,
+          "title": "Star Wars: Episode IV - A New Hope (1977)",
+          "genres": "Action|Adventure|Sci-Fi",
+          "score": 206.0,
+          "hit": true
+        },
+        {
+          "movieId": 589,
+          "title": "Terminator 2: Judgment Day (1991)",
+          "genres": "Action|Sci-Fi",
+          "score": 200.0,
+          "hit": true
+        },
+        {
+          "movieId": 527,
+          "title": "Schindler's List (1993)",
+          "genres": "Drama|War",
+          "score": 188.0,
+          "hit": true
+        }
+      ]
+    }
+  }
+]

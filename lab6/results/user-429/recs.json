@@ -1,0 +1,68 @@
+{
+  "user_id": 429,
+  "k": 10,
+  "recommendations": {
+    "als": [
+      {
+        "movieId": 457,
+        "title": "Fugitive, The (1993)",
+        "genres": "Thriller",
+        "score": 0.927231
+      },
+      {
+        "movieId": 454,
+        "title": "Firm, The (1993)",
+        "genres": "Drama|Thriller",
+        "score": 0.835857
+      },
+      {
+        "movieId": 350,
+        "title": "Client, The (1994)",
+        "genres": "Drama|Mystery|Thriller",
+        "score": 0.835263
+      },
+      {
+        "movieId": 253,
+        "title": "Interview with the Vampire: The Vampire Chronicles (1994)",
+        "genres": "Drama|Horror",
+        "score": 0.805758
+      },
+      {
+        "movieId": 539,
+        "title": "Sleepless in Seattle (1993)",
+        "genres": "Comedy|Drama|Romance",
+        "score": 0.756508
+      },
+      {
+        "movieId": 356,
+        "title": "Forrest Gump (1994)",
+        "genres": "Comedy|Drama|Romance|War",
+        "score": 0.733095
+      },
+      {
+        "movieId": 368,
+        "title": "Maverick (1994)",
+        "genres": "Adventure|Comedy|Western",
+        "score": 0.705155
+      },
+      {
+        "movieId": 440,
+        "title": "Dave (1993)",
+        "genres": "Comedy|Romance",
+        "score": 0.683858
+      },
+      {
+        "movieId": 110,
+        "title": "Braveheart (1995)",
+        "genres": "Action|Drama|War",
+        "score": 0.67217
+      },
+      {
+        "movieId": 158,
+        "title": "Casper (1995)",
+        "genres": "Adventure|Children",
+        "score": 0.671453
+      }
+    ]
+  }
+}

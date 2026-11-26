@@ -1,0 +1,25 @@
+{
+  "ratings": 100836,
+  "users": 610,
+  "movies_in_catalog": 9742,
+  "rated_movies": 9724,
+  "sparsity": 0.983032,
+  "mean_ratings_per_user": 165.305,
+  "median_ratings_per_user": 70.5,
+  "max_ratings_per_user": 2698,
+  "train_ratings": 80668,
+  "test_ratings": 20168,
+  "cutoff_timestamp": 1458635162,
+  "rating_distribution": {
+    "0.5": 1370,
+    "1.0": 2811,
+    "1.5": 1791,
+    "2.0": 7551,
+    "2.5": 5550,
+    "3.0": 20047,
+    "3.5": 13136,
+    "4.0": 26818,
+    "4.5": 8551,
+    "5.0": 13211
+  }
+}

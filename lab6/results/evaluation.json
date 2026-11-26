@@ -1,0 +1,14 @@
+{
+  "evaluated_users": 116,
+  "relevance_threshold": 4,
+  "k_values": [
+    5,
+    10,
+    20
+  ],
+  "history_groups": {
+    "cold": 88,
+    "1-19": 1,
+    "20+": 27
+  }
+}
